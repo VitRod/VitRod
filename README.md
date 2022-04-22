@@ -46,4 +46,5 @@ Here are some ideas to get you started:
  
  <h3 align="left">Trophy:</h3>
  
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=VitRod&theme=onedark)](https://github.com/VitRod/github-profile-trophy)
