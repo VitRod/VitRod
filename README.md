@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   <a href="https://www.javatpoint.com/java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="Github" width="50" height="50"/> </a>
   </p>
   
+  <h3 align="left">Github status:</h3>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
   <h3 align="left">Github streak:</h3>
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitRod&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
