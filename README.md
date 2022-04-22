@@ -1,4 +1,4 @@
-### 🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+### 🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)
 ### 🔱🌈 I’m currently working on SpringBoot and Hibernate Project😄 🌒  🌓 🌞 🌗  🌘 ⚡ 💪 🌈🏳️‍🌈🔱
 
 <!--
@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   
   ![VitRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
   
+  <h3 align="left">Top languages:</h3>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod)](https://github.com/VitRod/github-readme-stats)
   
   
   <h3 align="left">Github streak:</h3>
