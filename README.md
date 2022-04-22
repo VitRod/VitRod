@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   
   ![VitRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
   
+  [![VitRod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitRod)](https://github.com/VitRod/github-readme-stats)
+  
   <h3 align="left">Top languages:</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats)
