@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
   <h3 align="left">Github status:</h3>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod)](https://github.com/anuraghazra/github-readme-stats)
+  ![VitRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
   
   
   
