@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   
   ![VitRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
   
-  <h3 align="left">VitRod's wakatime stats:</h3>
+  <h3 align="left">VitRod's time of coding:</h3>
   
   <a href="https://wakatime.com/@a497e0ea-4978-42b2-9aa3-d3c04dc123a5"><img src="https://wakatime.com/badge/user/a497e0ea-4978-42b2-9aa3-d3c04dc123a5.svg" alt="Total time coded since Apr 22 2022" /></a>
   
