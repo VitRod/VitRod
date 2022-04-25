@@ -44,7 +44,8 @@ Here are some ideas to get you started:
   
   
   
-  [![VitRod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitRod)](https://github.com/VitRod/github-readme-stats)
+  [![VitRod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitRod)](https://github.com/anuraghazra/github-readme-stats)
+  
   
 
   
