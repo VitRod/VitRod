@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   
   
   
- 🌈  <h3 align="left">It is my coding time :</h3> 🏳️‍🌈🔱
+   <h3 align="left"> 🌈 It is my coding time in particular language : 🏳️‍🌈🔱</h3> 
   
  <!--START_SECTION:waka-->
 
