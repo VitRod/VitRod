@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    <a href="https://www.javatpoint.com/java" target="_blank"> <img src="http://3.bp.blogspot.com/-Ajql3_Oijdk/U438gFWH3fI/AAAAAAAAAKE/DFbF4ZLaqjY/s1600/spring-tool-suite-project-logo.png" alt="STS" width="50" height="50"/> </a>
   <a href="https://www.javatpoint.com/java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="Github" width="50" height="50"/> </a>
   </p>
-  
+     
   <h3 align="left">Github status:</h3>
   
   ![VitRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
