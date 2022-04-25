@@ -44,13 +44,10 @@ Here are some ideas to get you started:
   [![VitRod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitRod)](https://github.com/VitRod/github-readme-stats)
   
  <!--START_SECTION:waka-->
-
-
 ```text
 Java         23 hrs 11 mins  ███████████████████████▒░   93.64 %
 Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
-
 <!--END_SECTION:waka-->
   
   <h3 align="left">Top languages:</h3>
