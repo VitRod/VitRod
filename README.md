@@ -55,11 +55,6 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 
-```text
-Java         30 hrs 49 mins  ███████████████████████▓░   95.14 %
-Other        1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-```
-
 <!--END_SECTION:waka-->
     
   <h3 align="left">Top languages:</h3>
