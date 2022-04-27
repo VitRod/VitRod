@@ -67,11 +67,11 @@ Other        1 hr 4 mins     ▓░░░░░░░░░░░░░░░░
   [![VitRod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats)
   
   
-  <h3 align="left">Github streak:</h3>
+  <h3 align="left">🏳️‍🌈🔱  Github streak: 🔱🌈 </h3>
   
  [![VitRod's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitRod&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
- <h3 align="left">Trophy:</h3>
+ <h3 align="left">🔱🌈  Trophy: 🏳️‍🌈🔱 </h3>
  
  
  [![VitRod's trophies](https://github-profile-trophy.vercel.app/?username=VitRod&theme=onedark)](https://github.com/VitRod/github-profile-trophy)
