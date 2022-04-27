@@ -62,7 +62,7 @@ Other        1 hr 4 mins     ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
     
-  <h3 align="left">Top languages:</h3>
+  <h3 align="left">🔱🌈   Top languages: 🏳️‍🌈🔱 </h3>
   
   [![VitRod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats)
   
