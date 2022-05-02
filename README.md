@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://wakatime.com/@a497e0ea-4978-42b2-9aa3-d3c04dc123a5"><img src="https://wakatime.com/badge/user/a497e0ea-4978-42b2-9aa3-d3c04dc123a5.svg" alt="Total time coded since Apr 22 2022" /></a>
   
  
-  <h3 align="left"> 🔱 VitRod's week statistics: 🌈 </h3>
+  <h3 align="left"> 🔱 VitRod's week(7 days) statistics: 🌈 </h3>
   
   [![VitRod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitRod)](https://github.com/anuraghazra/github-readme-stats)
   
