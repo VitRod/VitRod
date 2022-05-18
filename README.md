@@ -35,7 +35,7 @@ Here are some ideas to get you started:
      
   <h3 align="left">🔱🌈 Github status: 🏳️‍🌈🔱</h3>
   
-  ![VitRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
+  ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&theme=radical&show_icons=true)
   
   <h3 align="left"> 🔱 VitRod's time of coding: 🏳️‍🌈</h3>
   
