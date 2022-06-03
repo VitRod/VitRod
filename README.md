@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java    3 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.72 %
-Other   2 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.06 %
+Other   5 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.25 %
 ```
 
 <!--END_SECTION:waka-->
