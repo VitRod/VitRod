@@ -77,4 +77,4 @@ Other        2 hrs 12 mins   ██░░░░░░░░░░░░░░░
  <h3 align="left">🔱🌈  Trophy: 🏳️‍🌈🔱 </h3>
  
  
- [![VitRod's trophies](https://github-profile-trophy.vercel.app/?username=VitRod&theme=onedark)](https://github.com/VitRod/github-profile-trophy)
+ [![VitRod's trophies](https://github-profile-trophy.vercel.app/?username=VitRod&theme=radical)](https://github.com/VitRod/github-profile-trophy)
