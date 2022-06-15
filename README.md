@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java         9 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.43 %
-C#           9 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.13 %
-Other        2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Java         16 hrs 21 mins  █████████████▓░░░░░░░░░░░   54.92 %
+C#           10 hrs 23 mins  ████████▓░░░░░░░░░░░░░░░░   34.90 %
+Other        2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 <!--END_SECTION:waka-->
