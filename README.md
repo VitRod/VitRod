@@ -35,7 +35,9 @@ Here are some ideas to get you started:
      
   <h3 align="left">🔱🌈 Github status: 🏳️‍🌈🔱</h3>
   
-  ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod)
+  <!-- ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod) -->
+  
+  ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
   
