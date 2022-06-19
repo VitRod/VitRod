@@ -89,3 +89,10 @@ Other        1 hr 39 mins    █▒░░░░░░░░░░░░░░░
  <h3 align="left"> :snake: 🔱🌈 Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: </h3>
  
  ![snake gif](https://github.com/VitRod/VitRod/blob/output/github-contribution-grid-snake.gif)
+ 
+ 
+ ### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+ 
