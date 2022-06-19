@@ -86,6 +86,6 @@ Other        1 hr 39 mins    █▒░░░░░░░░░░░░░░░
  
  [![VitRod's trophies](https://github-profile-trophy.vercel.app/?username=VitRod&theme=radical)](https://github.com/VitRod/github-profile-trophy)
  
- <h3 align="left">🔱🌈 Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱 </h3>
+ <h3 align="left"> :snake: 🔱🌈 Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: </h3>
  
  ![snake gif](https://github.com/VitRod/VitRod/blob/output/github-contribution-grid-snake.gif)
