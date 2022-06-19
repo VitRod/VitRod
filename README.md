@@ -92,7 +92,7 @@ Other        1 hr 39 mins    █▒░░░░░░░░░░░░░░░
  ![snake gif](https://github.com/VitRod/VitRod/blob/output/github-contribution-grid-snake.gif)
  
  
- ### :zap: Recent Activity
+ ### :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#19](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/19) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
