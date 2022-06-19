@@ -102,3 +102,15 @@ Other        1 hr 39 mins    █▒░░░░░░░░░░░░░░░
 5. ❗️ Opened issue [#18](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/18) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
  
+  ### :zap:🔱🌈  Additional Activity  🏳️‍🌈🔱
+  ### 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
+
+---
+
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
+  
