@@ -92,7 +92,7 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
  ![snake gif](https://github.com/VitRod/VitRod/blob/output/github-contribution-grid-snake.gif)
  
  
- ### :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
+ # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#23](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/23) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
@@ -103,7 +103,7 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 
-# Todoist Stats
+# 🔱🌈 Todoist Stats 🏳️‍🌈🔱
 
 <!-- TODO-IST:START -->
 🏆  150 Karma Points           
