@@ -111,4 +111,14 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
 ✅  Completed 16 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/VitRod/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/VitRod/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
  
