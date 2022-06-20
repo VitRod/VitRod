@@ -101,4 +101,10 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
 4. ❗️ Opened issue [#21](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/21) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 5. ❗️ Reopened issue [#19](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/19) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
+
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
  
