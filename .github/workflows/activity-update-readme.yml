@@ -1,4 +1,4 @@
-name: Activity Update README
+name: My Recent Activity Update
 
 on:
   schedule:
@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Specify a custom commit message'
-          MAX_LINES: 20
+          MAX_LINES: 10
