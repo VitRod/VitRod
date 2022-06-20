@@ -6,8 +6,8 @@
   
 
    
-#  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)  ✨ 🌈
-#  🔱🌈 I’m currently working on SpringBoot and Hibernate Project😄 🌒  🌓 🌞 🌗  🌘 ⚡ 💪 🌈🏳️‍🌈🔱
+###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)  ✨ 🌈
+###  🔱🌈 I’m currently working on SpringBoot and Hibernate Project😄 🌒  🌓 🌞 🌗  🌘 ⚡ 💪 🌈🏳️‍🌈🔱
      
 <!--
 **VitRod/VitRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   
 
- # <h3 align="left">🔱🌈  Languages and Tools: 🏳️‍🌈🔱 </h3>
+ ### 🔱🌈  Languages and Tools: 🏳️‍🌈🔱  
 <p align="left"> 
    <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.javatpoint.com/spring-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="https://wakatime.com/@a497e0ea-4978-42b2-9aa3-d3c04dc123a5"><img src="https://wakatime.com/badge/user/a497e0ea-4978-42b2-9aa3-d3c04dc123a5.svg" alt="Total time coded since Apr 22 2022" /></a>
   
  
-   #  🔱 VitRod's week(7 days) statistics: 🌈  
+   ###  🔱 VitRod's week(7 days) statistics: 🌈  
   
   [![VitRod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitRod)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   
   
   
-   #   🌈 It is my coding time during 7 days in particular language : 🏳️‍🌈🔱  
+  ###   🌈 It is my coding time during 7 days in particular language : 🏳️‍🌈🔱  
   
 <!--START_SECTION:waka-->
 
@@ -73,21 +73,21 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
     
-  #  🔱🌈   Top languages: 🏳️‍🌈🔱 
+  ###  🔱🌈   Top languages: 🏳️‍🌈🔱 
   
   [![VitRod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats)
   
   
-  #  🏳️‍🌈🔱  Github streak: 🔱🌈  
+  ###  🏳️‍🌈🔱  Github streak: 🔱🌈  
   
  [![VitRod's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitRod&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-  #  🔱🌈  Trophy: 🏳️‍🌈🔱 
+  ###  🔱🌈  Trophy: 🏳️‍🌈🔱 
     
  
  [![VitRod's trophies](https://github-profile-trophy.vercel.app/?username=VitRod&theme=radical)](https://github.com/VitRod/github-profile-trophy)
  
-  # :snake: 🔱🌈 Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: 
+  ### :snake: 🔱🌈 Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: 
  
  ![snake gif](https://github.com/VitRod/VitRod/blob/output/github-contribution-grid-snake.gif)
  
