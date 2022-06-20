@@ -31,8 +31,8 @@ jobs:
         with:
           github_user_name: VitRod
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/output_stats/github-contribution-grid-snake.gif
-          svg_out_path: dist/output_stats/github-contribution-grid-snake.svg
+          gif_out_path: output_snake/github-contribution-grid-snake.gif
+          svg_out_path: output_snake/github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -48,7 +48,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
-          target_branch: output_stats
-          build_dir: dist
+          target_branch: output_snake
+          build_dir: output_snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
