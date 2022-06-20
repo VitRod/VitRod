@@ -73,9 +73,9 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
     
-  ###  🔱🌈   Top languages: 🏳️‍🌈🔱 
+<!--  ###  🔱🌈   Top languages: 🏳️‍🌈🔱 
   
-  [![VitRod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats)
+  [![VitRod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats) -->
   
   ### 📊 Github Stats
 <a href='https://github.com/VitRod/github-stats-transparent'>
