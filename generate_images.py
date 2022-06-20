@@ -17,8 +17,8 @@ def generate_output_folder() -> None:
     """
     Create the output folder if it does not already exist
     """
-    if not os.path.isdir("/output_stats/generated"):
-        os.mkdir("/output_stats/generated")
+    if not os.path.isdir("output_stats/generated"):
+        os.mkdir("output_stats/generated")
 
 
 ################################################################################
