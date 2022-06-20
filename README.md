@@ -77,6 +77,15 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
   
   [![VitRod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitRod&layout=compact)](https://github.com/VitRod/github-readme-stats)
   
+  ### 📊 Github Stats
+<a href='https://github.com/VitRod/github-stats-transparent'>
+  
+![Stats Overview](https://github.com/VitRod/VitRod/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/VitRod/VitRod/blob/output/generated/languages.svg)
+  
+  
+</a>
+  
   
   ###  🏳️‍🌈🔱  Github streak: 🔱🌈  
   
@@ -113,16 +122,6 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-### 📊 Github Stats
-<a href='https://github.com/VitRod/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/VitRod/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/VitRod/github-stats-transparent/output/generated/languages.svg)
-  
-![Stats Overview](https://github.com/VitRod/VitRod/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/VitRod/VitRod/blob/output/generated/languages.svg)
-  
-  
-</a>
+
 
  
