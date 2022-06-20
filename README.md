@@ -118,7 +118,11 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
   
 ![Stats Overview](https://raw.githubusercontent.com/VitRod/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/VitRod/github-stats-transparent/output/generated/languages.svg)
-
+  
+![Stats Overview](https://github.com/VitRod/VitRod/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/VitRod/VitRod/blob/output/generated/languages.svg)
+  
+  
 </a>
 
  
