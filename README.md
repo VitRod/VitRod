@@ -104,7 +104,6 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 
