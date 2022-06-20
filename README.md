@@ -104,11 +104,7 @@ Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/24) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. 💪 Opened PR [#23](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/23) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 🎉 Merged PR [#20](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/20) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. ❗️ Opened issue [#22](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/22) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. ❗️ Opened issue [#21](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/21) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+
 <!--END_SECTION:activity-->
 
 
