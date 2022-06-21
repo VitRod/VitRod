@@ -1,9 +1,11 @@
 name: My Recent Activity Update
 
 on:
+  workflow_dispatch: # workflow dispatch trigger
   schedule:
     # Runs every 30 minutes
     - cron: '*/30 * * * *'
+ 
 
 jobs:
   build:
