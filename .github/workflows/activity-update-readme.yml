@@ -4,7 +4,7 @@ on:
   
   schedule:
     # Runs every 30 minutes
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
  
   workflow_dispatch: # workflow dispatch trigger
 
