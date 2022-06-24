@@ -103,11 +103,11 @@ Other        1 hr 48 mins    █▒░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/49) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. ❗️ Closed issue [#48](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/48) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 🗣 Commented on [#48](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/48) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. ❗️ Closed issue [#47](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/47) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 🗣 Commented on [#47](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/47) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. ❗️ Opened issue [#52](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/52) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 🗣 Commented on [#49](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/49) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. ❗️ Closed issue [#49](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/49) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. 🗣 Commented on [#49](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/49) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. ❗️ Closed issue [#48](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/48) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
