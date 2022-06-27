@@ -104,11 +104,11 @@ Other        1 hr 56 mins    █░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/58) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. ❗️ Reopened issue [#58](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/58) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. ❗️ Closed issue [#62](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/62) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 🗣 Commented on [#62](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/62) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 🎉 Merged PR [#70](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/70) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 💪 Opened PR [#71](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/71) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 🗣 Commented on [#58](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/58) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. ❗️ Reopened issue [#58](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/58) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. ❗️ Closed issue [#62](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/62) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. 🗣 Commented on [#62](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/62) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
