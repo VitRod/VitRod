@@ -104,10 +104,10 @@ Other        1 hr 56 mins    █░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#56](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/56) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. 🗣 Commented on [#56](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/56) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 🎉 Merged PR [#74](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/74) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 🗣 Commented on [#74](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/74) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. ❗️ Opened issue [#75](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/75) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. ❗️ Closed issue [#56](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/56) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. 🗣 Commented on [#56](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/56) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. 🎉 Merged PR [#74](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/74) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 5. 🗣 Commented on [#74](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/74) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
