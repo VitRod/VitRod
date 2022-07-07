@@ -104,11 +104,11 @@ Other   2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/117) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. 🎉 Merged PR [#116](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/116) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 💪 Opened PR [#116](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/116) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 🎉 Merged PR [#115](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/115) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 💪 Opened PR [#115](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/115) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 🗣 Commented on [#117](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/117) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 💪 Opened PR [#117](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/117) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. 🎉 Merged PR [#116](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/116) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. 💪 Opened PR [#116](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/116) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. 🎉 Merged PR [#115](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/115) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
