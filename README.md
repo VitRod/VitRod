@@ -103,11 +103,11 @@ Other   2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#77](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/77) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. 🎉 Merged PR [#118](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/118) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 🗣 Commented on [#118](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/118) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 💪 Opened PR [#118](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/118) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 🎉 Merged PR [#117](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/117) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 💪 Opened PR [#120](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/120) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 🎉 Merged PR [#119](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/119) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. 💪 Opened PR [#119](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/119) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. ❗️ Closed issue [#77](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/77) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. 🎉 Merged PR [#118](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/118) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
