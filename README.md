@@ -129,6 +129,6 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleSpringBootThymeleafApp&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/VitRod/SimpleSpringBootThymeleafApp)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=sql-jdbc-school&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/VitRod/sql-jdbc-school)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleSpringBootThymeleafApp&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleSpringBootThymeleafApp)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=sql-jdbc-school&&show_icons=true&theme=radical)](https://github.com/VitRod/sql-jdbc-school)
  
