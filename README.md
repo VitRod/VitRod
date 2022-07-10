@@ -124,7 +124,7 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 
-![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=radical&hide_border=true&area=true&bg_color=9842f5)
 
 
  
