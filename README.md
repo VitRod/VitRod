@@ -100,6 +100,8 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
  
  ![snake gif](https://github.com/VitRod/VitRod/blob/output_snake/github-contribution-grid-snake.gif)
  
+ ![dino gif](https://img.itch.zone/aW1hZ2UvMTk2OTQ5LzExMDQ1NzAuZ2lm/original/8WpSu7.gif)
+ 
  
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
