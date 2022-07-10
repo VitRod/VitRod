@@ -127,7 +127,7 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
 
 [![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## My Trending Repos 💻
+## My Trending Repositories 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleSpringBootThymeleafApp&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleSpringBootThymeleafApp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=sql-jdbc-school&&show_icons=true&theme=radical)](https://github.com/VitRod/sql-jdbc-school)
