@@ -114,7 +114,7 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 
-# 🔱🌈 Todoist Stats 🏳️‍🌈🔱
+# 🔱🌈 Todoist Stats: 🏳️‍🌈🔱
 
 <!-- TODO-IST:START -->
 🏆  4,832 Karma Points           
@@ -123,8 +123,9 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
+# 🔱🌈 My Github Activity Graph: 🏳️‍🌈🔱
 
-![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=radical&hide_border=true&area=true&bg_color=9842f5)
+[![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
