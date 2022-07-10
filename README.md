@@ -115,11 +115,11 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/52) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. ❗️ Closed issue [#93](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/93) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 🎉 Merged PR [#197](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/197) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 💪 Opened PR [#197](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/197) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 🎉 Merged PR [#196](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/196) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 🎉 Merged PR [#200](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/200) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 💪 Opened PR [#200](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/200) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. 🎉 Merged PR [#199](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/199) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. 💪 Opened PR [#199](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/199) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. 🎉 Merged PR [#198](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/198) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
