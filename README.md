@@ -105,7 +105,7 @@ Other   51 mins         ▓░░░░░░░░░░░░░░░░░�
  
  
  
-  ### 🔱🌈 Watch my dino running days and nights: 🏳️‍🌈🔱 
+  ### 🐲  🐉 🔱🌈 Watch my dino running days and nights: 🏳️‍🌈🔱  🐲  🐉
  ![dino gif](https://github.com/VitRod/VitRod/blob/main/dino.gif)
  
  
