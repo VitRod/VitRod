@@ -114,11 +114,11 @@ Other   51 mins         ▓░░░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/210) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. 💪 Opened PR [#210](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/210) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 🎉 Merged PR [#209](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/209) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 💪 Opened PR [#209](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/209) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 🎉 Merged PR [#208](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/208) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 🎉 Merged PR [#211](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/211) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 🗣 Commented on [#212](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/212) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. ❗️ Closed issue [#212](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/212) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. ❗️ Opened issue [#212](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/212) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. 💪 Opened PR [#211](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/211) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
