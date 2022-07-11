@@ -131,10 +131,10 @@ Other   51 mins         ▓░░░░░░░░░░░░░░░░░�
 ⏳  Longest streak is 22 days
 <!-- TODO-IST:END -->
 
-# 🔱🌈 My Todoist Records: 🏆🏆🏆 🏳️‍🌈🔱
-![](https://pbs.twimg.com/media/FXWbDpTWIAIEQso?format=png&name=small)
-![](https://pbs.twimg.com/media/FXWbObqWIAMfKIw?format=png&name=small )
-![](https://pbs.twimg.com/media/FXWbZqgXEAElO9H?format=png&name=small )
+# 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
+![](https://pbs.twimg.com/media/FXXa5BbWQAE-gkf?format=png&name=small)
+![](https://pbs.twimg.com/media/FXXbBIVWQAEp6oR?format=png&name=small )
+![](https://pbs.twimg.com/media/FXXbJlbXgAI14oB?format=png&name=small )
 
 
 
