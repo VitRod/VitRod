@@ -132,6 +132,14 @@ Other   55 mins         ▓░░░░░░░░░░░░░░░░░�
 ⏳  Longest streak is 22 days
 <!-- TODO-IST:END -->
 
+# 🔱🌈 My Todoist Records: 🏆🏆🏆 🏳️‍🌈🔱
+![](https://pbs.twimg.com/media/FXWDqMSXwAAOEcb?format=png&name=small)
+![](https://pbs.twimg.com/media/FXWDyzOWIAIhMMC?format=png&name=small)
+![](https://pbs.twimg.com/media/FXWD7eSWQAATVM7?format=png&name=small)
+
+
+
+
 # 🔱🌈 My Github Activity Graph: 🏳️‍🌈🔱
 
 [![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
