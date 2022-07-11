@@ -114,11 +114,11 @@ Other   51 mins         ▓░░░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#228](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/228) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. ❗️ Closed issue [#38](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/38) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. ❗️ Closed issue [#75](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/75) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 🎉 Merged PR [#227](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/227) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 💪 Opened PR [#227](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/227) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 🗣 Commented on [#228](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/228) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 🎉 Merged PR [#229](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/229) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. 💪 Opened PR [#229](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/229) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. ❗️ Opened issue [#228](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/228) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. ❗️ Closed issue [#38](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/38) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
