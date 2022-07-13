@@ -65,9 +65,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML    29 hrs 12 mins  ████████████████████▓░░░░   83.21 %
-Java    3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Other   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+HTML    27 hrs 47 mins  ████████████████████░░░░░   79.88 %
+Java    3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+C#      2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Other   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
