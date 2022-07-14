@@ -133,9 +133,9 @@ Other   2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![](https://pbs.twimg.com/media/FXl4G7HWAAE-Qqf?format=png&name=small)
-![]( https://pbs.twimg.com/media/FXl4M6BXEAcBdlh?format=png&name=small  )
-![]( https://pbs.twimg.com/media/FXl4SK9XoAAzPdy?format=png&name=small   )
+![](https://pbs.twimg.com/media/FXmdesOWYAErJmB?format=png&name=small )
+![](https://pbs.twimg.com/media/FXmdjMUXgAUzO5o?format=png&name=small   )
+![](https://pbs.twimg.com/media/FXmdptwXgAARJVJ?format=png&name=small    )
 
 
 
