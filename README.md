@@ -142,7 +142,7 @@ Text         13 mins         ░░░░░░░░░░░░░░░░░
 
 
 
-# 🔱🌈 My Github Activity Graph: 🏳️‍🌈🔱
+# 🔱🌈 My Github Activity Graph during this month: 🏳️‍🌈🔱
 
 [![VitRod's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitRod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
