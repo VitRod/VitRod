@@ -135,9 +135,9 @@ Text         13 mins         ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![]( https://pbs.twimg.com/media/FYfnW98XkAAmwSG?format=png&name=small   )
-![](  https://pbs.twimg.com/media/FYfnYnGWAAITtXa?format=png&name=small  )
-![](  https://pbs.twimg.com/media/FYfnaAsXEAEcHoz?format=png&name=small    )
+![]( https://pbs.twimg.com/media/FYklwpcWAAEXNRt?format=png&name=small   )
+![]( https://pbs.twimg.com/media/FYklyYjXkAAI6zw?format=png&name=small  )
+![](  https://pbs.twimg.com/media/FYklzoZWYAYXD-y?format=png&name=small    )
 
 
 
