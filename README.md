@@ -1,5 +1,6 @@
 
-![](https://media.giphy.com/media/3o7TKDEhaHWJpBs2Xu/giphy.gif)
+<!-- ![](https://media.giphy.com/media/3o7TKDEhaHWJpBs2Xu/giphy.gif) -->
+![](https://pbs.twimg.com/media/FY5G2dJX0AAfbbP?format=jpg&name=small)
 
 ![](https://media.giphy.com/media/35bsf4G3CHIWs/giphy.gif)
 ![](https://media.giphy.com/media/11z8mwhw0jxQiI/giphy.gif)
