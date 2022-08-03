@@ -117,11 +117,11 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#561](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/561) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-2. 🎉 Merged PR [#561](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/561) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-3. 💪 Opened PR [#561](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/561) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-4. 🗣 Commented on [#560](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/560) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
-5. 🎉 Merged PR [#560](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/560) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+1. 🗣 Commented on [#562](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/562) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+2. 🎉 Merged PR [#562](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/562) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+3. 💪 Opened PR [#562](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/562) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+4. 🗣 Commented on [#561](https://github.com/VitRod/Shopping-cart-site-spring-boot/issues/561) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+5. 🎉 Merged PR [#561](https://github.com/VitRod/Shopping-cart-site-spring-boot/pull/561) in [VitRod/Shopping-cart-site-spring-boot](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 <!--END_SECTION:activity-->
 
 
