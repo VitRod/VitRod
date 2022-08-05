@@ -158,3 +158,4 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
  [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=App_Whats_the_weather&&show_icons=true&theme=radical)](https://github.com/VitRod/App_Whats_the_weather)
  
  [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SeleniumTests&&show_icons=true&theme=radical)](https://github.com/VitRod/SeleniumTests)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Shopping-cart-site-spring-boot&&show_icons=true&theme=radical)](https://github.com/VitRod/Shopping-cart-site-spring-boot)
