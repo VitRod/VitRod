@@ -156,3 +156,5 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
  
  [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=UniversityProject_Task10&&show_icons=true&theme=radical)](https://github.com/VitRod/UniversityProject_Task10)
  [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=App_Whats_the_weather&&show_icons=true&theme=radical)](https://github.com/VitRod/App_Whats_the_weather)
+ 
+ [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SeleniumTests&&show_icons=true&theme=radical)](https://github.com/VitRod/SeleniumTests)
