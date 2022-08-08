@@ -135,10 +135,10 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![](  https://pbs.twimg.com/media/FZSnuagWAAEAk6S?format=png&name=small  )
-![]( https://pbs.twimg.com/media/FZSnwIkXkAE8ge0?format=png&name=small    )
-![](  https://pbs.twimg.com/media/FZSnx7mXwAMhfHR?format=png&name=small   )
-![](  https://pbs.twimg.com/media/FZSnzLvWIAAPABE?format=png&name=small   )
+![]( https://pbs.twimg.com/media/FZmTu4zWIAAgvL6?format=png&name=small  )
+![](  https://pbs.twimg.com/media/FZmTwqhXoAEjjkB?format=png&name=small   )
+![](  https://pbs.twimg.com/media/FZmTyUgWYAALZE7?format=png&name=small  )
+![](  https://pbs.twimg.com/media/FZmTz_OWAAIbi2q?format=png&name=small   )
 
 
 
