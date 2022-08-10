@@ -1,5 +1,6 @@
 
 <!-- ![](https://media.giphy.com/media/3o7TKDEhaHWJpBs2Xu/giphy.gif) -->
+
 ![]( https://pbs.twimg.com/media/FZxlBXiXEAMdtfI?format=png&name=small  )
 
 ![](https://media.giphy.com/media/35bsf4G3CHIWs/giphy.gif)
@@ -108,8 +109,11 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
  
  
  
-  ### 🐲  🐉 🔱🌈 Watch my dino running days and nights: 🏳️‍🌈🔱  🐲  🐉
- ![dino gif](https://github.com/VitRod/VitRod/blob/main/dino.gif)
+<!--  ### 🐲  🐉 🔱🌈 Watch my dino running days and nights: 🏳️‍🌈🔱  🐲  🐉
+ ![dino gif](https://github.com/VitRod/VitRod/blob/main/dino.gif) -->
+ 
+ ### 🐲  🐉 🔱🌈 Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉
+ ![](https://s4.gifyu.com/images/SmoothCriminal.md.gif)
  
  
  
