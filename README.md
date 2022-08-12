@@ -170,3 +170,5 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
  
  [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SeleniumTests&&show_icons=true&theme=radical)](https://github.com/VitRod/SeleniumTests)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Shopping-cart-site-spring-boot&&show_icons=true&theme=radical)](https://github.com/VitRod/Shopping-cart-site-spring-boot)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Selenium_auto_testing_java&&show_icons=true&theme=radical)](https://github.com/VitRod/Selenium_auto_testing_java)
