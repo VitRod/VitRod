@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/26525615/183905605-a232a043-6d3d-4bb4-
 
    
 ###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)  ✨ 🌈
-###  🔱🌈 I’m currently working on SpringBoot and Hibernate Project😄 🌒  🌓 🌞 🌗  🌘 ⚡ 💪 🌈🏳️‍🌈🔱
+###  🔱🌈 I’m currently working on Selenium Project with Java 11 😄 🌒  🌓 🌞 🌗  🌘 ⚡ 💪 🌈🏳️‍🌈🔱
      
 <!--
 **VitRod/VitRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
