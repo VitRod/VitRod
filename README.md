@@ -104,10 +104,10 @@ Properties   11 mins         ░░░░░░░░░░░░░░░░░
  
  
  
-  ### :snake: 🔱🌈Hey  ![](https://komarev.com/ghpvc/?username=VitRod&color=brightgreen)   Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: 
+  ### :snake: 🔱🌈Hey  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)   Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: 
  
  ![snake gif](https://github.com/VitRod/VitRod/blob/output_snake/github-contribution-grid-snake.gif)
- ### 🐲  🐉 🔱🌈Guys ![](https://komarev.com/ghpvc/?username=VitRod&color=brightgreen)  Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉 ![github_octo_MusicOctodex — small](https://user-images.githubusercontent.com/26525615/184469267-a77995d6-bdd6-4ea0-9ce7-8724b8fd7784.png)
+ ### 🐲  🐉 🔱🌈Guys ![](https://komarev.com/ghpvc/?username=VitRod&color=green)  Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉 ![github_octo_MusicOctodex — small](https://user-images.githubusercontent.com/26525615/184469267-a77995d6-bdd6-4ea0-9ce7-8724b8fd7784.png)
  ![](https://github.com/VitRod/VitRod/blob/main/SmothCriminal.gif)
  
  
