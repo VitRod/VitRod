@@ -5,10 +5,12 @@
 
 https://user-images.githubusercontent.com/26525615/183905605-a232a043-6d3d-4bb4-954b-a7150ec7407f.mp4
 
+![](https://octodex.github.com/images/NUX_Octodex.gif)
 
 <!-- ![](https://media.giphy.com/media/3o7TKDEhaHWJpBs2Xu/giphy.gif) -->
 
 ![]( https://pbs.twimg.com/media/FZxlBXiXEAMdtfI?format=png&name=small  )
+
 
 ![](https://media.giphy.com/media/35bsf4G3CHIWs/giphy.gif)
 ![](https://media.giphy.com/media/11z8mwhw0jxQiI/giphy.gif)
