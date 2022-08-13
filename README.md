@@ -1,6 +1,6 @@
 
 ###  🌈 Dear Visitor!!! ![](https://komarev.com/ghpvc/?username=VitRod&color=brightgreen) 
-### Welcome to my github page.  ![github_octo](https://user-images.githubusercontent.com/26525615/184383695-843fadbc-5a7a-4165-b40e-8aa78550d515.png) Please relax :relaxed:, have some rest in the restroom :restroom:, take  a sip of tea :tea: with a peace of lemon :lemon: , turn on video with wonderful and  motivating music :musical_note: :musical_score: :musical_keyboard:, and look through all my projects :rainbow:. Maybe  you will find  something  that will be  interesting for your mind and  soul  :art: ✨ 🌈
+### Welcome to my github page.  ![github_octo](https://user-images.githubusercontent.com/26525615/184383695-843fadbc-5a7a-4165-b40e-8aa78550d515.png) Please relax :relaxed:, have some rest in the restroom :restroom:, take  a sip of tea :tea: with a peace of lemon :lemon: , turn on the video with wonderful and  motivating music :musical_note: :musical_score: :musical_keyboard:, and look through all my projects :rainbow:. Maybe  you will find  something  that will be  interesting for your mind and  soul  :art: ✨ 🌈
 
 
 
