@@ -1,6 +1,7 @@
 
-###  🌈 Dear Visitor!!! ![](https://komarev.com/ghpvc/?username=VitRod&color=brightgreen) 🌈
-### 🌈 Welcome to my github page.  ![github_octo](https://user-images.githubusercontent.com/26525615/184383695-843fadbc-5a7a-4165-b40e-8aa78550d515.png) Please relax :relaxed:, have some rest in the restroom :restroom:, take  a sip of tea :tea: with a peace of lemon :lemon: , turn on the video with wonderful and  motivating music :musical_note: :musical_score: :musical_keyboard:, and look through all my projects :rainbow:. Maybe  you will find  something  that will be  interesting for your mind and  soul  :art: ✨ 🌈
+###  🌈 Dear Visitor!!! ![](https://komarev.com/ghpvc/?username=VitRod&color=brightgreen) 🌈  ![github_octo_muscle](https://user-images.githubusercontent.com/26525615/184468011-8946816f-195f-43e0-89b3-598b9dacb24c.png)
+
+### 🌈 Welcome to my github page.  ![github_octo](https://user-images.githubusercontent.com/26525615/184383695-843fadbc-5a7a-4165-b40e-8aa78550d515.png) Please relax :relaxed:, have some rest in the restroom :restroom:, take  a sip of tea :tea: ![github_octo_cup](https://user-images.githubusercontent.com/26525615/184467948-db970eb3-6fbe-49eb-b8c1-c06c6735dc37.png) with a peace of lemon :lemon: , turn on the video with wonderful and  motivating music :musical_note: :musical_score: :musical_keyboard:, and look through all my projects :rainbow:. Maybe  you will find  something  that will be  interesting for your mind and  soul  :art: ✨ 🌈
 
 
 
@@ -130,11 +131,11 @@ Properties   11 mins         ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/VitRod/Selenium_auto_testing_java/issues/285) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-2. 🎉 Merged PR [#285](https://github.com/VitRod/Selenium_auto_testing_java/pull/285) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-3. 💪 Opened PR [#285](https://github.com/VitRod/Selenium_auto_testing_java/pull/285) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-4. 🗣 Commented on [#284](https://github.com/VitRod/Selenium_auto_testing_java/issues/284) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-5. 🎉 Merged PR [#284](https://github.com/VitRod/Selenium_auto_testing_java/pull/284) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+1. 🗣 Commented on [#283](https://github.com/VitRod/Selenium_auto_testing_java/issues/283) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+2. 🎉 Merged PR [#283](https://github.com/VitRod/Selenium_auto_testing_java/pull/283) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+3. 💪 Opened PR [#283](https://github.com/VitRod/Selenium_auto_testing_java/pull/283) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+4. 🗣 Commented on [#282](https://github.com/VitRod/Selenium_auto_testing_java/issues/282) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+5. 🎉 Merged PR [#282](https://github.com/VitRod/Selenium_auto_testing_java/pull/282) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
 <!--END_SECTION:activity-->
 
 
