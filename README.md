@@ -124,7 +124,7 @@ Properties   11 mins         ░░░░░░░░░░░░░░░░░
 <!--  ### 🐲  🐉 🔱🌈 Watch my dino running days and nights: 🏳️‍🌈🔱  🐲  🐉
  ![dino gif](https://github.com/VitRod/VitRod/blob/main/dino.gif) -->
  
- ### 🐲  🐉 🔱🌈 Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉
+ ### 🐲  🐉 🔱🌈 Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉 ![github_octo_MusicOctodex — small](https://user-images.githubusercontent.com/26525615/184469267-a77995d6-bdd6-4ea0-9ce7-8724b8fd7784.png)
  ![](https://github.com/VitRod/VitRod/blob/main/SmothCriminal.gif)
  
  
