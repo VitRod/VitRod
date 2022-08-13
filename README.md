@@ -19,8 +19,10 @@ https://user-images.githubusercontent.com/26525615/183905605-a232a043-6d3d-4bb4-
   
 
    
-###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)  ✨ 🌈
-###  🔱🌈 I’m currently working on Selenium Project with Java 11 😄 🌒  🌓 🌞 🌗  🌘 ⚡ 💪 🌈🏳️‍🌈🔱
+###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)   ✨ 🌈  ![github_octo_BlockToCatsOctodex — small](https://user-images.githubusercontent.com/26525615/184469075-e9d5b632-1422-4039-bb16-da16ebbd0048.png)
+
+###  🔱🌈 I’m currently working on Selenium Project with Java 11  ![github_octo_WeCanDoItOctodex — small gif](https://user-images.githubusercontent.com/26525615/184469027-e2fbb16f-cb30-4a8d-ae7f-663ab8f58d0c.png)
+ 🌈🏳️‍🌈🔱
      
 <!--
 **VitRod/VitRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
