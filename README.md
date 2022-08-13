@@ -19,25 +19,8 @@ https://user-images.githubusercontent.com/26525615/183905605-a232a043-6d3d-4bb4-
   
 
    
-###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)   ✨ 🌈  ![github_octo_BlockToCatsOctodex — small](https://user-images.githubusercontent.com/26525615/184469075-e9d5b632-1422-4039-bb16-da16ebbd0048.png)
-###  🔱🌈 I’m currently working on Selenium Project with Java 11  ![github_octo_WeCanDoItOctodex — small gif](https://user-images.githubusercontent.com/26525615/184469027-e2fbb16f-cb30-4a8d-ae7f-663ab8f58d0c.png) 🌈🏳️‍🌈🔱
+###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)   ✨ 🌈  ![github_octo_BlockToCatsOctodex — small](https://user-images.githubusercontent.com/26525615/184469075-e9d5b632-1422-4039-bb16-da16ebbd0048.png) 🔱🌈 I’m currently working on Selenium Project with Java 11  ![github_octo_WeCanDoItOctodex — small gif](https://user-images.githubusercontent.com/26525615/184469027-e2fbb16f-cb30-4a8d-ae7f-663ab8f58d0c.png) 🌈🏳️‍🌈🔱
      
-<!--
-**VitRod/VitRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-    
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
-
  ### 🔱🌈  Languages and Tools: 🏳️‍🌈🔱  
 <p align="left"> 
    <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
