@@ -109,11 +109,11 @@ Properties   11 mins         ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/VitRod/Selenium_auto_testing_java/issues/334) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-2. 🎉 Merged PR [#334](https://github.com/VitRod/Selenium_auto_testing_java/pull/334) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-3. 💪 Opened PR [#334](https://github.com/VitRod/Selenium_auto_testing_java/pull/334) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-4. 🎉 Merged PR [#333](https://github.com/VitRod/Selenium_auto_testing_java/pull/333) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
-5. 💪 Opened PR [#333](https://github.com/VitRod/Selenium_auto_testing_java/pull/333) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+1. 🗣 Commented on [#341](https://github.com/VitRod/Selenium_auto_testing_java/issues/341) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+2. 🎉 Merged PR [#341](https://github.com/VitRod/Selenium_auto_testing_java/pull/341) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+3. 💪 Opened PR [#341](https://github.com/VitRod/Selenium_auto_testing_java/pull/341) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+4. 🗣 Commented on [#340](https://github.com/VitRod/Selenium_auto_testing_java/issues/340) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
+5. 🎉 Merged PR [#340](https://github.com/VitRod/Selenium_auto_testing_java/pull/340) in [VitRod/Selenium_auto_testing_java](https://github.com/VitRod/Selenium_auto_testing_java)
 <!--END_SECTION:activity-->
 
 
