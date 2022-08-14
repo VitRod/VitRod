@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/26525615/183905605-a232a043-6d3d-4bb4-
   
 
    
-###  🌈Hello there!!!  ![](https://komarev.com/ghpvc/?username=VitRod&color=brightgreen)   ✨ 🌈  ![github_octo_BlockToCatsOctodex — small](https://user-images.githubusercontent.com/26525615/184469075-e9d5b632-1422-4039-bb16-da16ebbd0048.png) 🔱🌈 I’m currently working on Selenium Project with Java 11  ![github_octo_WeCanDoItOctodex — small gif](https://user-images.githubusercontent.com/26525615/184469027-e2fbb16f-cb30-4a8d-ae7f-663ab8f58d0c.png) 🌈🏳️‍🌈🔱
+###  🌈Hello there!!!   ✨ 🌈  ![github_octo_BlockToCatsOctodex — small](https://user-images.githubusercontent.com/26525615/184469075-e9d5b632-1422-4039-bb16-da16ebbd0048.png) 🔱🌈 I’m currently working on Selenium Project with Java 11  ![github_octo_WeCanDoItOctodex — small gif](https://user-images.githubusercontent.com/26525615/184469027-e2fbb16f-cb30-4a8d-ae7f-663ab8f58d0c.png) 🌈🏳️‍🌈🔱
      
  ### 🔱🌈  Languages and Tools: 🏳️‍🌈🔱  
 <p align="left"> 
@@ -112,10 +112,10 @@ Properties   11 mins         ░░░░░░░░░░░░░░░░░
  
  
  
-  ### :snake: 🔱🌈Hey  ![](https://komarev.com/ghpvc/?username=VitRod&color=green)   Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: 
+  ### :snake: 🔱🌈 Watch my contribution graph get eaten by the snake: 🏳️‍🌈🔱  :snake: 
  
  ![snake gif](https://github.com/VitRod/VitRod/blob/output_snake/github-contribution-grid-snake.gif)
- ### 🐲  🐉 🔱🌈Guys ![](https://komarev.com/ghpvc/?username=VitRod&color=green)  Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉 ![github_octo_MusicOctodex — small](https://user-images.githubusercontent.com/26525615/184469267-a77995d6-bdd6-4ea0-9ce7-8724b8fd7784.png)
+ ### 🐲  🐉 🔱🌈Guys! Watch Michael Jackson dancing days and nights: 🏳️‍🌈🔱  🐲  🐉 ![github_octo_MusicOctodex — small](https://user-images.githubusercontent.com/26525615/184469267-a77995d6-bdd6-4ea0-9ce7-8724b8fd7784.png)
  ![](https://github.com/VitRod/VitRod/blob/main/SmothCriminal.gif)
  
  
