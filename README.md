@@ -135,9 +135,9 @@ Properties   11 mins         ░░░░░░░░░░░░░░░░░
 # 🔱🌈 Todoist Stats: 🏳️‍🌈🔱
 
 <!-- TODO-IST:START -->
-🏆  8,677 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 6,001 tasks so far           
+🏆  8,690 Karma Points           
+🌸  Completed 56 tasks today           
+✅  Completed 6,057 tasks so far           
 ⏳  Longest streak is 32 days
 <!-- TODO-IST:END -->
 
