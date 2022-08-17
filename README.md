@@ -139,10 +139,10 @@ XML    19 mins         ░░░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![]( https://pbs.twimg.com/media/FaAwXlGX0AACFNK?format=png&name=small  )
-![](  https://pbs.twimg.com/media/FaAwZJBWIAAqNrA?format=png&name=small   )
-![](  https://pbs.twimg.com/media/FaAwa5NXgAEjDSh?format=png&name=small  )
-![](  https://pbs.twimg.com/media/FaAwc1QWAAIYsI4?format=png&name=small   )
+![](  https://pbs.twimg.com/media/FaXJ_GnXgAEq1yV?format=png&name=small )
+![](  https://pbs.twimg.com/media/FaXKAotXoAEJcWq?format=png&name=small   )
+![](  https://pbs.twimg.com/media/FaXKCEUXwAAw-BD?format=png&name=small   )
+![](  https://pbs.twimg.com/media/FaXKDc7XEAIewNn?format=png&name=small    )
 
 
 
