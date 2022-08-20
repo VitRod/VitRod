@@ -188,7 +188,7 @@ XML    19 mins         ▒░░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Shopping-cart-site-spring-boot&&show_icons=true&theme=radical)](https://github.com/VitRod/Shopping-cart-site-spring-boot)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Selenium_auto_testing_java&&show_icons=true&theme=radical)](https://github.com/VitRod/Selenium_auto_testing_java)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=selenium-java-practicing-test&&show_icons=true&theme=radical)](https://github.com/VitRod/selenium-java-practicing-test/tree/main)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=selenium-java-practicing-test&&show_icons=true&theme=radical)](https://github.com/VitRod/selenium-java-practicing-test)
 
 
 
