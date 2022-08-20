@@ -136,11 +136,11 @@ XML    19 mins         ▒░░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/VitRod/selenium-java-pacticing-test/issues/9) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
-2. 🎉 Merged PR [#9](https://github.com/VitRod/selenium-java-pacticing-test/pull/9) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
-3. 💪 Opened PR [#9](https://github.com/VitRod/selenium-java-pacticing-test/pull/9) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
-4. 🗣 Commented on [#8](https://github.com/VitRod/selenium-java-pacticing-test/issues/8) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
-5. 🎉 Merged PR [#8](https://github.com/VitRod/selenium-java-pacticing-test/pull/8) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
+1. 🗣 Commented on [#10](https://github.com/VitRod/selenium-java-practicing-test/issues/10) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+2. 🎉 Merged PR [#10](https://github.com/VitRod/selenium-java-practicing-test/pull/10) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+3. 💪 Opened PR [#10](https://github.com/VitRod/selenium-java-practicing-test/pull/10) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+4. 🗣 Commented on [#9](https://github.com/VitRod/selenium-java-pacticing-test/issues/9) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
+5. 🎉 Merged PR [#9](https://github.com/VitRod/selenium-java-pacticing-test/pull/9) in [VitRod/selenium-java-pacticing-test](https://github.com/VitRod/selenium-java-pacticing-test)
 <!--END_SECTION:activity-->
 
 
