@@ -92,8 +92,8 @@ https://user-images.githubusercontent.com/26525615/185604781-e13900ba-4919-4291-
 <!--START_SECTION:waka-->
 
 ```text
-Java   55 hrs 36 mins  █████████████████████████   99.41 %
-XML    19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java   49 hrs 21 mins  ████████████████████████▓   99.33 %
+XML    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
