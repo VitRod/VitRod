@@ -148,11 +148,11 @@ XML    19 mins         ▒░░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/VitRod/selenium-java-practicing-test/issues/17) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-2. 🎉 Merged PR [#17](https://github.com/VitRod/selenium-java-practicing-test/pull/17) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-3. 💪 Opened PR [#17](https://github.com/VitRod/selenium-java-practicing-test/pull/17) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-4. 🗣 Commented on [#16](https://github.com/VitRod/selenium-java-practicing-test/issues/16) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-5. 🎉 Merged PR [#16](https://github.com/VitRod/selenium-java-practicing-test/pull/16) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+1. 🗣 Commented on [#18](https://github.com/VitRod/selenium-java-practicing-test/issues/18) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+2. 🎉 Merged PR [#18](https://github.com/VitRod/selenium-java-practicing-test/pull/18) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+3. 💪 Opened PR [#18](https://github.com/VitRod/selenium-java-practicing-test/pull/18) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+4. 🗣 Commented on [#17](https://github.com/VitRod/selenium-java-practicing-test/issues/17) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+5. 🎉 Merged PR [#17](https://github.com/VitRod/selenium-java-practicing-test/pull/17) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
 <!--END_SECTION:activity-->
 
 
