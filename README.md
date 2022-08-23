@@ -80,8 +80,8 @@ https://user-images.githubusercontent.com/26525615/185921324-801356c2-09e2-4eae-
 <!--START_SECTION:waka-->
 
 ```text
-Java   44 hrs 59 mins  ████████████████████████▓   98.81 %
-XML    32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Java   45 hrs 5 mins   ████████████████████████░   95.46 %
+XML    2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
