@@ -133,11 +133,11 @@ Text   0 secs          ░░░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/VitRod/Planets_Orbital_Motion/issues/7) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-2. 🎉 Merged PR [#7](https://github.com/VitRod/Planets_Orbital_Motion/pull/7) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-3. 💪 Opened PR [#7](https://github.com/VitRod/Planets_Orbital_Motion/pull/7) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-4. 🗣 Commented on [#6](https://github.com/VitRod/Planets_Orbital_Motion/issues/6) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-5. 🎉 Merged PR [#6](https://github.com/VitRod/Planets_Orbital_Motion/pull/6) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+1. 🎉 Merged PR [#10](https://github.com/VitRod/Planets_Orbital_Motion/pull/10) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+2. 💪 Opened PR [#10](https://github.com/VitRod/Planets_Orbital_Motion/pull/10) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+3. 🎉 Merged PR [#9](https://github.com/VitRod/Planets_Orbital_Motion/pull/9) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+4. 💪 Opened PR [#9](https://github.com/VitRod/Planets_Orbital_Motion/pull/9) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+5. 🗣 Commented on [#8](https://github.com/VitRod/Planets_Orbital_Motion/issues/8) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
 <!--END_SECTION:activity-->
 
 
