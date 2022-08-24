@@ -133,11 +133,11 @@ Text   0 secs          ░░░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/Planets_Orbital_Motion/pull/1) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-2. 💪 Opened PR [#1](https://github.com/VitRod/Planets_Orbital_Motion/pull/1) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-3. 🎉 Merged PR [#121](https://github.com/VitRod/selenium-java-practicing-test/pull/121) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-4. 💪 Opened PR [#121](https://github.com/VitRod/selenium-java-practicing-test/pull/121) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-5. 🗣 Commented on [#120](https://github.com/VitRod/selenium-java-practicing-test/issues/120) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+1. 🗣 Commented on [#2](https://github.com/VitRod/Planets_Orbital_Motion/issues/2) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+2. 🎉 Merged PR [#2](https://github.com/VitRod/Planets_Orbital_Motion/pull/2) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+3. 💪 Opened PR [#2](https://github.com/VitRod/Planets_Orbital_Motion/pull/2) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+4. 🎉 Merged PR [#1](https://github.com/VitRod/Planets_Orbital_Motion/pull/1) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+5. 💪 Opened PR [#1](https://github.com/VitRod/Planets_Orbital_Motion/pull/1) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
 <!--END_SECTION:activity-->
 
 
