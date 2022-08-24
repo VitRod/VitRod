@@ -133,11 +133,11 @@ Text   0 secs          ░░░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/VitRod/selenium-java-practicing-test/pull/116) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-2. 💪 Opened PR [#116](https://github.com/VitRod/selenium-java-practicing-test/pull/116) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-3. 🎉 Merged PR [#115](https://github.com/VitRod/selenium-java-practicing-test/pull/115) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-4. 💪 Opened PR [#115](https://github.com/VitRod/selenium-java-practicing-test/pull/115) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
-5. 🎉 Merged PR [#114](https://github.com/VitRod/selenium-java-practicing-test/pull/114) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+1. 🎉 Merged PR [#118](https://github.com/VitRod/selenium-java-practicing-test/pull/118) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+2. 💪 Opened PR [#118](https://github.com/VitRod/selenium-java-practicing-test/pull/118) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+3. 🗣 Commented on [#117](https://github.com/VitRod/selenium-java-practicing-test/issues/117) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+4. 🎉 Merged PR [#117](https://github.com/VitRod/selenium-java-practicing-test/pull/117) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
+5. 💪 Opened PR [#117](https://github.com/VitRod/selenium-java-practicing-test/pull/117) in [VitRod/selenium-java-practicing-test](https://github.com/VitRod/selenium-java-practicing-test)
 <!--END_SECTION:activity-->
 
 
