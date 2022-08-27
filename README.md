@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/26525615/186324645-8b869b2b-7f97-4453-
 
    
 ###  🌈Hello there!!!   ✨ 🌈  ![github_octo_BlockToCatsOctodex — small](https://user-images.githubusercontent.com/26525615/184469075-e9d5b632-1422-4039-bb16-da16ebbd0048.png) .   ![github_octo_WeCanDoItOctodex — small gif](https://user-images.githubusercontent.com/26525615/184469027-e2fbb16f-cb30-4a8d-ae7f-663ab8f58d0c.png)         
-### 🔱🌈 I’m currently working on Selenium Project with Java 11   🌈🏳️‍🌈🔱
+### 🔱🌈 I’m currently working on HTML, CSS and JavaScript projects   🌈🏳️‍🌈🔱
      
  ### 🔱🌈  Languages and Tools: 🏳️‍🌈🔱  
 <p align="left"> 
