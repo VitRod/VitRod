@@ -93,12 +93,12 @@ https://user-images.githubusercontent.com/26525615/187029749-29967e5c-7cf2-423c-
 <!--START_SECTION:waka-->
 
 ```text
-Java         33 hrs 55 mins  ███████████████████░░░░░░   75.66 %
-XML          4 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-HTML         3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-JavaScript   2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java         26 hrs 3 mins   ███████████████▓░░░░░░░░░   62.86 %
+HTML         7 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+XML          3 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+JavaScript   3 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
