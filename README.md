@@ -142,11 +142,11 @@ Markdown     2 mins          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/VitRod/Corona_visualization_data_tracker/pull/2) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-2. 💪 Opened PR [#2](https://github.com/VitRod/Corona_visualization_data_tracker/pull/2) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-3. 🎉 Merged PR [#1](https://github.com/VitRod/Corona_visualization_data_tracker/pull/1) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-4. 💪 Opened PR [#1](https://github.com/VitRod/Corona_visualization_data_tracker/pull/1) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-5. 🎉 Merged PR [#50](https://github.com/VitRod/Planets_Orbital_Motion/pull/50) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+1. 🎉 Merged PR [#4](https://github.com/VitRod/Corona_visualization_data_tracker/pull/4) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+2. 💪 Opened PR [#4](https://github.com/VitRod/Corona_visualization_data_tracker/pull/4) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+3. 🎉 Merged PR [#3](https://github.com/VitRod/Corona_visualization_data_tracker/pull/3) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+4. 💪 Opened PR [#3](https://github.com/VitRod/Corona_visualization_data_tracker/pull/3) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+5. 🎉 Merged PR [#2](https://github.com/VitRod/Corona_visualization_data_tracker/pull/2) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
 <!--END_SECTION:activity-->
 
 
