@@ -141,11 +141,11 @@ Markdown     2 mins          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/VitRod/Planets_Orbital_Motion/pull/50) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-2. 💪 Opened PR [#50](https://github.com/VitRod/Planets_Orbital_Motion/pull/50) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-3. 🎉 Merged PR [#49](https://github.com/VitRod/Planets_Orbital_Motion/pull/49) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-4. 💪 Opened PR [#49](https://github.com/VitRod/Planets_Orbital_Motion/pull/49) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
-5. 🗣 Commented on [#48](https://github.com/VitRod/Planets_Orbital_Motion/issues/48) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+1. 🎉 Merged PR [#1](https://github.com/VitRod/Corona_visualization_data_tracker/pull/1) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+2. 💪 Opened PR [#1](https://github.com/VitRod/Corona_visualization_data_tracker/pull/1) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+3. 🎉 Merged PR [#50](https://github.com/VitRod/Planets_Orbital_Motion/pull/50) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+4. 💪 Opened PR [#50](https://github.com/VitRod/Planets_Orbital_Motion/pull/50) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
+5. 🎉 Merged PR [#49](https://github.com/VitRod/Planets_Orbital_Motion/pull/49) in [VitRod/Planets_Orbital_Motion](https://github.com/VitRod/Planets_Orbital_Motion)
 <!--END_SECTION:activity-->
 
 
