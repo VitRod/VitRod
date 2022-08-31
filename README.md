@@ -153,10 +153,10 @@ Git          3 mins          ░░░░░░░░░░░░░░░░░
 # 🔱🌈 Todoist Stats: 🏳️‍🌈🔱
 
 <!-- TODO-IST:START -->
-🏆  9,938 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 10,644 tasks so far           
-⏳  Longest streak is 39 days
+🏆  9,951 Karma Points           
+🌸  Completed 9 tasks today           
+✅  Completed 10,653 tasks so far           
+⏳  Longest streak is 40 days
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
