@@ -160,10 +160,10 @@ Git          3 mins          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![]( https://pbs.twimg.com/media/FbLCcyiUYAMNoCI?format=png&name=small  )
-![]( https://pbs.twimg.com/media/FbLCexSUIAAUm4i?format=png&name=small     )
-![](  https://pbs.twimg.com/media/FbLCgldVsAEMyxd?format=png&name=small    )
-![](  https://pbs.twimg.com/media/FbLCiUoUIAEoI9f?format=png&name=small   )
+![](  https://pbs.twimg.com/media/Fbiv2VyXoAEWsKp?format=png&name=small  )
+![](  https://pbs.twimg.com/media/Fbiv52IWQAACa26?format=png&name=small     )
+![](  https://pbs.twimg.com/media/Fbiv8HNXgAAF01S?format=png&name=small   )
+![](  https://pbs.twimg.com/media/Fbiv93hXkAEXK48?format=png&name=small    )
 
 
 
