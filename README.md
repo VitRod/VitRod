@@ -1,6 +1,6 @@
  
  
-  
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 
 
@@ -73,6 +73,10 @@ https://user-images.githubusercontent.com/26525615/187029749-29967e5c-7cf2-423c-
  <img align="center" alt="VitRod-spring"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  <img align="center" alt="VitRod-spring_security"  src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
  <img align="center" alt="VitRod-hibernate"  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+ <img align="center" alt="VitRod-thymeleaf"  src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+ 
+ 
+ 
  
   <!-- Python -->
  <img align="center" alt="VitRod-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
