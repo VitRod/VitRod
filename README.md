@@ -72,8 +72,8 @@ https://user-images.githubusercontent.com/26525615/187029749-29967e5c-7cf2-423c-
  <img align="center" alt="VitRod-thymeleaf"  src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
  <img align="center" alt="VitRod-postman"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
  
- 
-
+ <!-- Testing -->
+<img align="center" alt="VitRod-selenium"  src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
  
  
   <!-- Python -->
