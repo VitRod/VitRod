@@ -1,3 +1,6 @@
+ 
+ 
+  <!-- Badges for tools -->
  <div style="display: inline_block"><br>
  
  <!-- Java -->
@@ -50,51 +53,7 @@
  <img align="center" alt="VitRod-jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
  <img align="center" alt="VitRod-trello"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
  <img align="center" alt="VitRod-todoist"  src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
-  
- 
-  <img align="center" alt="VitRod-gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- 
- 
-  
-  
-  
-  
-  
-  
+ <img align="center" alt="VitRod-gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  
 </div>
 
 
