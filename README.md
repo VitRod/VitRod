@@ -1,6 +1,10 @@
  <div style="display: inline_block"><br>
  
  
+ 
+ 
+ <img align="center" alt="VitRod-jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+ 
  <img align="center" alt="VitRod-powershell"  src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
  
  <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
