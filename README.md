@@ -22,6 +22,12 @@
  <img align="center" alt="VitRod-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img align="center" alt="VitRod-dotNet"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
  
+ <!-- Database -->
+ <img align="center" alt="VitRod-mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" alt="VitRod-postgres"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img align="center" alt="VitRod-sqlLite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+ 
+ 
   <!-- IDE -->
  <img align="center" alt="VitRod-eclipse"  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  <img align="center" alt="VitRod-intelij-idea"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -62,11 +68,11 @@
  
  
  
- <img align="center" alt="VitRod-sqlLite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
  
- <img align="center" alt="VitRod-mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  
- <img align="center" alt="VitRod-postgres"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ 
+ 
+ 
  
   
  
