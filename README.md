@@ -64,18 +64,6 @@ https://user-images.githubusercontent.com/26525615/187029749-29967e5c-7cf2-423c-
 ### 🔱🌈 I’m currently working on HTML, CSS and JavaScript projects   🌈🏳️‍🌈🔱
      
  ### 🔱🌈  Languages and Tools: 🏳️‍🌈🔱  
-<p align="left"> 
-   <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.javatpoint.com/spring-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.javatpoint.com/hibernate-tutorial" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.png" alt="hibernate" width="100" height="40"/> </a>
-   <a href="https://www.javatpoint.com/postgresql-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> </a>
-   <a href="https://www.javatpoint.com/mysql-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.javatpoint.com/intellij-vs-eclipse" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="60" height="30"/> </a>
-  <a href="https://www.javatpoint.com/intellij-idea-tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-plain-wordmark.svg" alt="Intelij idea" width="70" height="40"/> </a>
-   <a href="https://www.javatpoint.com/java" target="_blank"> <img src="http://3.bp.blogspot.com/-Ajql3_Oijdk/U438gFWH3fI/AAAAAAAAAKE/DFbF4ZLaqjY/s1600/spring-tool-suite-project-logo.png" alt="STS" width="50" height="50"/> </a>
-  <a href="https://www.javatpoint.com/java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="Github" width="50" height="50"/> </a>
-  </p>
-  
   
   <!-- Badges for tools -->
  <div style="display: inline_block"><br>
