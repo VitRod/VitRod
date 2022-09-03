@@ -37,20 +37,28 @@
  <img align="center" alt="VitRod-sublime"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
  <img align="center" alt="VitRod-notepad++"  src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
  
+ <!-- Git -->
+  <img align="center" alt="VitRod-github"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="VitRod-gitlab"  src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
  
- <img align="center" alt="VitRod-jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
- 
+ <!-- Teminal -->
+ <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  <img align="center" alt="VitRod-powershell"  src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
  
- <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  
- 
- 
- 
- 
+ <!-- Other -->
+ <img align="center" alt="VitRod-jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
  <img align="center" alt="VitRod-trello"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+ <img align="center" alt="VitRod-todoist"  src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white">
  
-  <img align="center" alt="VitRod-todoist"  src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 
@@ -76,8 +84,7 @@
  
   
  
-   <img align="center" alt="VitRod-github"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="VitRod-gitlab"  src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  
  
   <img align="center" alt="VitRod-gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  
