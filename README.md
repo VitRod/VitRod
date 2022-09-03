@@ -1,5 +1,10 @@
  <div style="display: inline_block"><br>
  
+ <img align="center" alt="VitRod-mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ 
+ 
+ <img align="center" alt="VitRod-postgres"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ 
   <img align="center" alt="VitRod-spring"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  
    <img align="center" alt="VitRod-github"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
