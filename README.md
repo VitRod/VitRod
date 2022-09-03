@@ -64,6 +64,10 @@ https://user-images.githubusercontent.com/26525615/187029749-29967e5c-7cf2-423c-
   <!-- Badges for tools -->
  <div style="display: inline_block"><br>
  
+ <!-- Visualizer -->
+  <img align="center" alt="VitRod-visualizer"  src="https://img.shields.io/badge/V-QUANTUM%20VISUALIZER-blue">
+  <img align="center" alt="VitRod-FABRIC"  src="https://img.shields.io/badge/F-QUANTUM%20FABRIC-brightgreen">
+ 
  <!-- Java -->
  <img align="center" alt="VitRod-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <img align="center" alt="VitRod-spring"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
