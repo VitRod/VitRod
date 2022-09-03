@@ -1,5 +1,11 @@
  <div style="display: inline_block"><br>
  
+ <!-- Java -->
+ <img align="center" alt="VitRod-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+ <img align="center" alt="VitRod-spring_security"  src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+ <img align="center" alt="VitRod-hibernate"  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+ <img align="center" alt="VitRod-spring"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+ 
  
  <img align="center" alt="VitRod-bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  
@@ -7,7 +13,7 @@
  
   <img align="center" alt="VitRod-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  
- <img align="center" alt="VitRod-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+ 
  
  <img align="center" alt="VitRod-jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
  
@@ -15,9 +21,9 @@
  
  <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  
- <img align="center" alt="VitRod-spring_security"  src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
  
- <img align="center" alt="VitRod-hibernate"  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+ 
+ 
  
  <img align="center" alt="VitRod-trello"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
  
@@ -45,7 +51,7 @@
  
  <img align="center" alt="VitRod-postgres"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  
-  <img align="center" alt="VitRod-spring"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  
  
    <img align="center" alt="VitRod-github"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="VitRod-gitlab"  src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -61,7 +67,7 @@
   <img align="center" alt="jquery"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   
   
-  <img align="center" alt="benccalcyxzfi-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="VitRod-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   
   
 </div>
