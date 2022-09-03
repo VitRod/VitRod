@@ -1,7 +1,11 @@
  <div style="display: inline_block"><br>
  
  
+ <img align="center" alt="VitRod-dotNet"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
  
+  <img align="center" alt="VitRod-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+ 
+ <img align="center" alt="VitRod-java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  
  <img align="center" alt="VitRod-jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
  
