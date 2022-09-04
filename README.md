@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/26525615/187029749-29967e5c-7cf2-423c-
 
 <!-- ![](https://media.giphy.com/media/3o7TKDEhaHWJpBs2Xu/giphy.gif) -->
 
-![]( https://pbs.twimg.com/media/FalSyOaXgAETFn5?format=png&name=large  )
+![]( https://pbs.twimg.com/media/Fb0XWb4WQAMk9rf?format=png&name=large )
 <!--![github_octo_NUX_Octodex](https://user-images.githubusercontent.com/26525615/184468234-17b41d1c-532e-4074-ba64-845d75aa736f.gif) -->
 
 
