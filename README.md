@@ -211,11 +211,11 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#159](https://github.com/VitRod/Corona_visualization_data_tracker/pull/159) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-2. 💪 Opened PR [#159](https://github.com/VitRod/Corona_visualization_data_tracker/pull/159) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-3. 🎉 Merged PR [#158](https://github.com/VitRod/Corona_visualization_data_tracker/pull/158) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-4. 💪 Opened PR [#158](https://github.com/VitRod/Corona_visualization_data_tracker/pull/158) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
-5. 🎉 Merged PR [#157](https://github.com/VitRod/Corona_visualization_data_tracker/pull/157) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+1. 🎉 Merged PR [#171](https://github.com/VitRod/Corona_visualization_data_tracker/pull/171) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+2. 💪 Opened PR [#171](https://github.com/VitRod/Corona_visualization_data_tracker/pull/171) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+3. 🎉 Merged PR [#170](https://github.com/VitRod/Corona_visualization_data_tracker/pull/170) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+4. 💪 Opened PR [#170](https://github.com/VitRod/Corona_visualization_data_tracker/pull/170) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
+5. 🎉 Merged PR [#169](https://github.com/VitRod/Corona_visualization_data_tracker/pull/169) in [VitRod/Corona_visualization_data_tracker](https://github.com/VitRod/Corona_visualization_data_tracker)
 <!--END_SECTION:activity-->
 
 
