@@ -2,7 +2,7 @@
 <!-- ### Happy and Wonderful Autumn Days!!!!
  ![](https://media.giphy.com/media/ONxw4niC96zwk/giphy.gif) -->
  
- ### I want to congratulate all ukrainian tankmen, that defend Ukraine from russian orks with the Day of Tank driver.
+ ### I want to congratulate all ukrainian tankmen, that defend Ukraine from russian orks, with the Day of Tank driver.
  ![](https://media.giphy.com/media/JIS3HjZexQJsk/giphy.gif)
 
 
