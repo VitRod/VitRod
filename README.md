@@ -219,11 +219,11 @@ Java         4 mins          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/153) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-2. 💪 Opened PR [#153](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/153) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-3. 🎉 Merged PR [#152](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/152) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-4. 💪 Opened PR [#152](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/152) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-5. 🎉 Merged PR [#5](https://github.com/VitRod/FreestyleProjectsAndPictures/pull/5) in [VitRod/FreestyleProjectsAndPictures](https://github.com/VitRod/FreestyleProjectsAndPictures)
+1. 🎉 Merged PR [#172](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/172) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
+2. 💪 Opened PR [#172](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/172) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
+3. 🎉 Merged PR [#171](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/171) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
+4. 💪 Opened PR [#171](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/171) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
+5. 🎉 Merged PR [#170](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/170) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
 <!--END_SECTION:activity-->
 
 
