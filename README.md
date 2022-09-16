@@ -219,11 +219,11 @@ Java         4 mins          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/185) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-2. 💪 Opened PR [#185](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/185) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-3. 🎉 Merged PR [#184](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/184) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-4. 💪 Opened PR [#184](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/184) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
-5. 🎉 Merged PR [#183](https://github.com/VitRod/Japanese_Samurai_Fighting/pull/183) in [VitRod/Japanese_Samurai_Fighting](https://github.com/VitRod/Japanese_Samurai_Fighting)
+1. 🎉 Merged PR [#3](https://github.com/VitRod/Simple_Quiz_Application/pull/3) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+2. 💪 Opened PR [#3](https://github.com/VitRod/Simple_Quiz_Application/pull/3) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+3. 🎉 Merged PR [#2](https://github.com/VitRod/Simple_Quiz_Application/pull/2) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+4. 💪 Opened PR [#2](https://github.com/VitRod/Simple_Quiz_Application/pull/2) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+5. 🎉 Merged PR [#1](https://github.com/VitRod/Simple_Quiz_Application/pull/1) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
 <!--END_SECTION:activity-->
 
 
