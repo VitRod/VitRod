@@ -267,3 +267,5 @@ Java         4 mins          ░░░░░░░░░░░░░░░░░
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Planets_Orbital_Motion&&show_icons=true&theme=radical)](https://github.com/VitRod/Planets_Orbital_Motion)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Corona_visualization_data_tracker&&show_icons=true&theme=radical)](https://github.com/VitRod/Corona_visualization_data_tracker)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Japanese_Samurai_Fighting&&show_icons=true&theme=radical)](https://github.com/VitRod/Japanese_Samurai_Fighting)
