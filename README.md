@@ -1,6 +1,7 @@
 ### True Quotes
 ### - If you want it, work for it. / You can if you think you can. George Reeves / Stay hungry. Stay foolish. Steve Jobs
-### - If you want it, work for it. / Whatever you are, be a good one. Abraham Lincoln / Grow through what you go through.
+### - If you want it, work for it. / Whatever you are, be a good one. Abraham Lincoln / Grow through what you go through. / Do it with passion or not at all. 
+### - If it matters to you, you’ll find a way. Charlie Gilkey / He believed he could, so he did. / Forget about style; worry about results. Bobby Orr
 
 
 
