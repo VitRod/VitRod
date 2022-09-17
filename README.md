@@ -1,5 +1,6 @@
 ### True Quotes
-### If you want it, work for it.
+### - If you want it, work for it.
+### - Stay hungry. Stay foolish. Steve Jobs
 
 
 
