@@ -2,6 +2,7 @@
 ### - If you want it, work for it. / You can if you think you can. George Reeves / Stay hungry. Stay foolish. Steve Jobs
 ### - If you want it, work for it. / Whatever you are, be a good one. Abraham Lincoln / Grow through what you go through. / Do it with passion or not at all. 
 ### - If it matters to you, you’ll find a way. Charlie Gilkey / He believed he could, so he did. / Forget about style; worry about results. Bobby Orr
+- Dream without fear. love without limits. / Whatever you do, do with all your might. Marcus Tullius Cicero /  If you’re going through hell, keep going. Winston Churchill / We are twice armed if we fight with faith. Plato / Every noble work is at first impossible. Thomas Carlyle
 
 
 
