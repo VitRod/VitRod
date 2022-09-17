@@ -1,4 +1,8 @@
- 
+### True Quotes
+### If you want it, work for it.
+
+
+
 <!-- ### Happy Programmer's Day!!!!
  ![](https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif)  -->
  
