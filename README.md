@@ -221,11 +221,11 @@ Python       0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/VitRod/Simple_Quiz_Application/pull/26) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
-2. 💪 Opened PR [#26](https://github.com/VitRod/Simple_Quiz_Application/pull/26) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
-3. 🎉 Merged PR [#25](https://github.com/VitRod/Simple_Quiz_Application/pull/25) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
-4. 💪 Opened PR [#25](https://github.com/VitRod/Simple_Quiz_Application/pull/25) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
-5. 🎉 Merged PR [#24](https://github.com/VitRod/Simple_Quiz_Application/pull/24) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+1. 🎉 Merged PR [#27](https://github.com/VitRod/Simple_Quiz_Application/pull/27) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+2. 💪 Opened PR [#27](https://github.com/VitRod/Simple_Quiz_Application/pull/27) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+3. 🎉 Merged PR [#26](https://github.com/VitRod/Simple_Quiz_Application/pull/26) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+4. 💪 Opened PR [#26](https://github.com/VitRod/Simple_Quiz_Application/pull/26) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
+5. 🎉 Merged PR [#25](https://github.com/VitRod/Simple_Quiz_Application/pull/25) in [VitRod/Simple_Quiz_Application](https://github.com/VitRod/Simple_Quiz_Application)
 <!--END_SECTION:activity-->
 
 
