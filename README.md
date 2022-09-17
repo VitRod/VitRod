@@ -271,3 +271,4 @@ Python       0 secs          ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Corona_visualization_data_tracker&&show_icons=true&theme=radical)](https://github.com/VitRod/Corona_visualization_data_tracker)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Japanese_Samurai_Fighting&&show_icons=true&theme=radical)](https://github.com/VitRod/Japanese_Samurai_Fighting)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Simple_Quiz_Application&&show_icons=true&theme=radical)](https://github.com/VitRod/Simple_Quiz_Application)
