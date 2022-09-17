@@ -221,11 +221,11 @@ Python       0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/VitRod/Infinite_pictures_scrolling/pull/9) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
-2. 💪 Opened PR [#9](https://github.com/VitRod/Infinite_pictures_scrolling/pull/9) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
-3. 🎉 Merged PR [#8](https://github.com/VitRod/Infinite_pictures_scrolling/pull/8) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
-4. 💪 Opened PR [#8](https://github.com/VitRod/Infinite_pictures_scrolling/pull/8) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
-5. 🎉 Merged PR [#7](https://github.com/VitRod/Infinite_pictures_scrolling/pull/7) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
+1. 🎉 Merged PR [#6](https://github.com/VitRod/FreestyleProjectsAndPictures/pull/6) in [VitRod/FreestyleProjectsAndPictures](https://github.com/VitRod/FreestyleProjectsAndPictures)
+2. 💪 Opened PR [#6](https://github.com/VitRod/FreestyleProjectsAndPictures/pull/6) in [VitRod/FreestyleProjectsAndPictures](https://github.com/VitRod/FreestyleProjectsAndPictures)
+3. 🎉 Merged PR [#9](https://github.com/VitRod/Infinite_pictures_scrolling/pull/9) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
+4. 💪 Opened PR [#9](https://github.com/VitRod/Infinite_pictures_scrolling/pull/9) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
+5. 🎉 Merged PR [#8](https://github.com/VitRod/Infinite_pictures_scrolling/pull/8) in [VitRod/Infinite_pictures_scrolling](https://github.com/VitRod/Infinite_pictures_scrolling)
 <!--END_SECTION:activity-->
 
 
