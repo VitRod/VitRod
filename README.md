@@ -1,3 +1,12 @@
+<!-- ### Happy Programmer's Day!!!!
+ ![](https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif)  -->
+ 
+  ### Sweet sweet Autumn
+ ![]( https://media.giphy.com/media/Qxjz9bkyZMCU8Dqq5f/giphy.gif ) 
+
+
+
+
 - If you want it, work for it. / --- We can do anything we want to, if we stick to it long enough and twist the thing in our hands with PERSISTENCE long enough.---/ Try Again. Fail again. Fail better./ Boldness be my friend.  / You can if you think you can. George Reeves / Stay hungry. Stay foolish. Steve Jobs / If you want it, work for it. / Whatever you are, be a good one. Abraham Lincoln / Grow through what you go through. / Do it with passion or not at all. / If it matters to you, you’ll find a way. Charlie Gilkey / He believed he could, so he did. / Forget about style; worry about results. Bobby Orr / Dream without fear. love without limits. / Whatever you do, do with all your might. Marcus Tullius Cicero /  If you’re going through hell, keep going. Winston Churchill / We are twice armed if we fight with faith. Plato / Every noble work is at first impossible. Thomas Carlyle / Persistence guarantees that results are inevitable. Paramahansa Yogananda / The true success is the person who invented himself. Al Goldstein / The wisest mind has something yet to learn. George Santanaya / 
 - Fall seven times, stand up eight. Japanese proverb / Every wall is a door. Ralph Waldo Emerson / If you’re not confused, you’re not paying attention. Tom Peters / If you do it for competition you’re screwed. If you do it for love you have a chance. Maxime Lagacé / Pain is inevitable. Suffering is optional. / Failure is success if we learn from it. Malcolm Forbes / Life is short. Be patient with results and impatient with actions. / You can accomplish lots of things. Commit to ONE and give it your 100%. Then go to the next. /--- You are your worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you're only half involved in what you do. ---/ --- Without enemies around us, we grow lazy. An enemy at our heels sharpens our wits, keeping us focused and alert./
 -  --- Do not dream or make grand plans for the future, but instead concentrate on becoming proficient at simple and immediate skills./ --- Make creativity rather than comfort your goal and you will ensure far more success for the future./ --- When it comes to practical life, what should matter is getting long-term results. And getting the work done in as efficient and creative a manner as possible./--All that should concern you in the early stages of your career is acquiring practical knowledge in the most efficient manner possible./-- To make a discovery, to invent something meaningful that connects with the public, to fashion a work of art that is meaningful, inevitably requires time and effort./--Any kind of resistance or obstacle that crosses your path should be seen as yet another chance to improve your work./-- Mistakes and failures are precisely your means of education. They tell you about your own inadequacies.
@@ -6,11 +15,6 @@
 
 
 
-<!-- ### Happy Programmer's Day!!!!
- ![](https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif)  -->
- 
-  ### Sweet sweet Autumn
- ![]( https://media.giphy.com/media/Qxjz9bkyZMCU8Dqq5f/giphy.gif ) 
 
 
 
