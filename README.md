@@ -242,10 +242,10 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 # 🔱🌈 Todoist Stats: 🏳️‍🌈🔱
 
 <!-- TODO-IST:START -->
-🏆  10,603 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 12,880 tasks so far           
-⏳  Longest streak is 59 days
+🏆  10,627 Karma Points           
+🌸  Completed 80 tasks today           
+✅  Completed 12,960 tasks so far           
+⏳  Longest streak is 60 days
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
