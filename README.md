@@ -242,7 +242,7 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- TODO-IST:START -->
 🏆  10,627 Karma Points           
-🌸  Completed 80 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 12,960 tasks so far           
 ⏳  Longest streak is 60 days
 <!-- TODO-IST:END -->
