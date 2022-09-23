@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/26525615/192006886-67e30f66-8590-42fb-
 
 
 <!-- Habitica 25 pictures -->
-![]( https://pbs.twimg.com/media/Fc1KSL8XgAEEv9M?format=png&name=small )
+![]( https://pbs.twimg.com/media/FdWsHCtWIAEg0hG?format=png&name=small )
 
 
 
