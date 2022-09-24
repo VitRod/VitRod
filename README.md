@@ -234,11 +234,11 @@ Markdown     20 mins         ▒░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/VitRod/Light_And_Dark_Mode_Page/pull/66) in [VitRod/Light_And_Dark_Mode_Page](https://github.com/VitRod/Light_And_Dark_Mode_Page)
-2. 💪 Opened PR [#66](https://github.com/VitRod/Light_And_Dark_Mode_Page/pull/66) in [VitRod/Light_And_Dark_Mode_Page](https://github.com/VitRod/Light_And_Dark_Mode_Page)
-3. 🎉 Merged PR [#65](https://github.com/VitRod/Light_And_Dark_Mode_Page/pull/65) in [VitRod/Light_And_Dark_Mode_Page](https://github.com/VitRod/Light_And_Dark_Mode_Page)
-4. 💪 Opened PR [#65](https://github.com/VitRod/Light_And_Dark_Mode_Page/pull/65) in [VitRod/Light_And_Dark_Mode_Page](https://github.com/VitRod/Light_And_Dark_Mode_Page)
-5. 🎉 Merged PR [#64](https://github.com/VitRod/Light_And_Dark_Mode_Page/pull/64) in [VitRod/Light_And_Dark_Mode_Page](https://github.com/VitRod/Light_And_Dark_Mode_Page)
+1. 🎉 Merged PR [#3](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/3) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+2. 💪 Opened PR [#3](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/3) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+3. 🎉 Merged PR [#2](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/2) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+4. 💪 Opened PR [#2](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/2) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+5. 🎉 Merged PR [#1](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/1) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
 <!--END_SECTION:activity-->
 
 
