@@ -289,4 +289,4 @@ Markdown     20 mins         ▒░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Infinite_pictures_scrolling&&show_icons=true&theme=radical)](https://github.com/VitRod/Infinite_pictures_scrolling)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Form_Validation_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Form_Validation_Page)
 
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Light_And_Dark_Mode_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Light_And_Dark_Mode_Page)
