@@ -238,11 +238,11 @@ Markdown     20 mins         ▒░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/10) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-2. 💪 Opened PR [#10](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/10) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-3. 🎉 Merged PR [#9](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/9) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-4. 💪 Opened PR [#9](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/9) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-5. 🎉 Merged PR [#8](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/8) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+1. 🎉 Merged PR [#13](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/13) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+2. 💪 Opened PR [#13](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/13) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+3. 🎉 Merged PR [#12](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/12) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+4. 💪 Opened PR [#12](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/12) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+5. 🎉 Merged PR [#11](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/11) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
 <!--END_SECTION:activity-->
 
 
