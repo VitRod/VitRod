@@ -294,3 +294,4 @@ Markdown     19 mins         ▒░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Form_Validation_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Form_Validation_Page)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Light_And_Dark_Mode_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Light_And_Dark_Mode_Page)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Nasa_Astronomy_Pics_Of_The_Day&&show_icons=true&theme=radical)](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
