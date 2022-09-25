@@ -256,10 +256,10 @@ Markdown     19 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![](  https://pbs.twimg.com/media/FcRnjZPWIAEC3O4?format=png&name=small  )
-![](   https://pbs.twimg.com/media/FcRnk9SWQAAeTyX?format=png&name=small     )
-![](   https://pbs.twimg.com/media/FcRnmnAX0AQ42ez?format=png&name=small   )
-![](   https://pbs.twimg.com/media/FcRnoZnXgAE4yj6?format=png&name=small    )
+![](   https://pbs.twimg.com/media/Fdfci7dWAAoHHNT?format=png&name=small  )
+![](    https://pbs.twimg.com/media/FdfckoeWYAMIhKs?format=png&name=small    )
+![](  https://pbs.twimg.com/media/FdfcmhTXwAIve70?format=png&name=small  )
+![](   https://pbs.twimg.com/media/FdfcoE9XwAEgfbW?format=png&name=small   )
 ![master level](  https://pbs.twimg.com/media/FbiyQuAX0AE4-TU?format=png&name=small )
 
 
