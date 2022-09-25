@@ -238,11 +238,11 @@ Markdown     19 mins         ▒░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/24) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-2. 💪 Opened PR [#24](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/24) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-3. 🎉 Merged PR [#23](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/23) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-4. 💪 Opened PR [#23](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/23) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
-5. 🎉 Merged PR [#22](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/22) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+1. 🎉 Merged PR [#28](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/28) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+2. 💪 Opened PR [#28](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/28) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+3. 🎉 Merged PR [#27](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/27) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+4. 💪 Opened PR [#27](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/27) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
+5. 🎉 Merged PR [#26](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day/pull/26) in [VitRod/Nasa_Astronomy_Pics_Of_The_Day](https://github.com/VitRod/Nasa_Astronomy_Pics_Of_The_Day)
 <!--END_SECTION:activity-->
 
 
