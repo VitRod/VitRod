@@ -237,11 +237,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/VitRod/Just_Paint_Website/pull/39) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
-2. 💪 Opened PR [#39](https://github.com/VitRod/Just_Paint_Website/pull/39) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
-3. 🎉 Merged PR [#38](https://github.com/VitRod/Just_Paint_Website/pull/38) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
-4. 💪 Opened PR [#38](https://github.com/VitRod/Just_Paint_Website/pull/38) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
-5. 🎉 Merged PR [#37](https://github.com/VitRod/Just_Paint_Website/pull/37) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
+1. 🎉 Merged PR [#41](https://github.com/VitRod/Just_Paint_Website/pull/41) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
+2. 💪 Opened PR [#41](https://github.com/VitRod/Just_Paint_Website/pull/41) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
+3. 🎉 Merged PR [#40](https://github.com/VitRod/Just_Paint_Website/pull/40) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
+4. 💪 Opened PR [#40](https://github.com/VitRod/Just_Paint_Website/pull/40) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
+5. 🎉 Merged PR [#39](https://github.com/VitRod/Just_Paint_Website/pull/39) in [VitRod/Just_Paint_Website](https://github.com/VitRod/Just_Paint_Website)
 <!--END_SECTION:activity-->
 
 
