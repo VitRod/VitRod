@@ -4,10 +4,7 @@
 <!--  ### Sweet sweet Autumn
  ![]( https://media.giphy.com/media/3o6Ztddd85uV4Bn1Ys/giphy-downsized-large.gif ) -->
   <!-- Biden -->
- ![]( https://media.giphy.com/media/X0Puqlx2pTy4E/giphy.gif )
- 
- <!-- Mbappe -->
- ![]( https://media.giphy.com/media/Tdj5nclElnRELudnka/giphy-downsized-large.gif )
+ ![]( https://media.giphy.com/media/X0Puqlx2pTy4E/giphy.gif )     ![]( https://media.giphy.com/media/Tdj5nclElnRELudnka/giphy-downsized-large.gif )
 
 
 
