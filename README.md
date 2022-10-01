@@ -237,11 +237,11 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/VitRod/Ping_Pong_Game_Website/pull/9) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
-2. 💪 Opened PR [#9](https://github.com/VitRod/Ping_Pong_Game_Website/pull/9) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
-3. 🎉 Merged PR [#8](https://github.com/VitRod/Ping_Pong_Game_Website/pull/8) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
-4. 💪 Opened PR [#8](https://github.com/VitRod/Ping_Pong_Game_Website/pull/8) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
-5. 🎉 Merged PR [#7](https://github.com/VitRod/Ping_Pong_Game_Website/pull/7) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
+1. 🎉 Merged PR [#13](https://github.com/VitRod/Ping_Pong_Game_Website/pull/13) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
+2. 💪 Opened PR [#13](https://github.com/VitRod/Ping_Pong_Game_Website/pull/13) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
+3. 🎉 Merged PR [#12](https://github.com/VitRod/Ping_Pong_Game_Website/pull/12) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
+4. 💪 Opened PR [#12](https://github.com/VitRod/Ping_Pong_Game_Website/pull/12) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
+5. 🎉 Merged PR [#11](https://github.com/VitRod/Ping_Pong_Game_Website/pull/11) in [VitRod/Ping_Pong_Game_Website](https://github.com/VitRod/Ping_Pong_Game_Website)
 <!--END_SECTION:activity-->
 
 
