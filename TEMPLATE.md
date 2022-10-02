@@ -21,15 +21,15 @@ Its our goal is to improve the original GitHub Action while also providing new f
 This is an example live preview that is updated every time a commit is pushed using github actions.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 5:24:25 AM
+Last Updated: Sunday, October 2nd, 2022, 5:27:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [VitRod/recent-activity](https://github.com/VitRod/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
+2. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
+3. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
+4. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
+5. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
 <!--RECENT_ACTIVITY:end-->
 
 ## Features
