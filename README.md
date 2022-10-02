@@ -237,6 +237,11 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#107](https://github.com/VitRod/Math_Sprint_Game_Website/pull/107) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+2. 💪 Opened PR [#107](https://github.com/VitRod/Math_Sprint_Game_Website/pull/107) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+3. 🎉 Merged PR [#106](https://github.com/VitRod/Math_Sprint_Game_Website/pull/106) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+4. 💪 Opened PR [#106](https://github.com/VitRod/Math_Sprint_Game_Website/pull/106) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+5. 🎉 Merged PR [#105](https://github.com/VitRod/Math_Sprint_Game_Website/pull/105) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
 <!--END_SECTION:activity-->
 
 
