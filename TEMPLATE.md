@@ -21,15 +21,15 @@ Its our goal is to improve the original GitHub Action while also providing new f
 This is an example live preview that is updated every time a commit is pushed using github actions.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 5:36:00 AM
+Last Updated: Sunday, October 2nd, 2022, 5:48:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
 2. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
-3. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
-4. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
-5. ⬆️ Pushed 1 commit(s) to [VitRod/VitRod](https://github.com/VitRod/VitRod)
+3. 🎉 Merged PR [#108](https://github.com/VitRod/Math_Sprint_Game_Website/pull/108) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+4. ⬆️ Pushed 2 commit(s) to [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+5. 💪 Opened PR [#108](https://github.com/VitRod/Math_Sprint_Game_Website/pull/108) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
 <!--RECENT_ACTIVITY:end-->
 
 ## Features
