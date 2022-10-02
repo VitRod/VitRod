@@ -9,7 +9,8 @@ inputs:
     required: false
   CONFIG_FILE:
     description: "Path to configuration file"
-    default: "./.github/recent-activity.config.yml"
+   |# default: "./.github/recent-activity.config.yml"
+    default: "./.github/workflows/activity-update-readme.yml"
     required: false
 
 branding:
