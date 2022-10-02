@@ -1,0 +1,41 @@
+{
+  "name": "activity-readme",
+  "version": "2.3.1",
+  "description": "Updates README with the recent GitHub activity of a user. This project is a fork of https://github.com/jamesgeorge007/github-activity-readme",
+  "main": "src/index.js",
+  "keywords": [
+    "github-profile",
+    "activity"
+  ],
+  "author": "James George, The Readme-Workflows organisation",
+  "license": "MIT",
+  "scripts": {
+    "format:check": "prettier --check src/**/*.js",
+    "format": "prettier --write src/**/*.js",
+    "build": "ncc build src/index.js --license LICENSE"
+  },
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "actions-toolkit": "^6.0.1",
+    "axios": "^0.27.2",
+    "dateformat": "^4.5.1",
+    "js-yaml": "^4.1.0",
+    "qs": "^6.11.0"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.34.0",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Readme-Workflows/recent-activity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Readme-Workflows/recent-activity/issues"
+  },
+  "homepage": "https://github.com/Readme-Workflows/recent-activity#readme"
+}
