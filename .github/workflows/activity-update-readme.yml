@@ -3,8 +3,8 @@ name: My Recent Activity Update
 on: 
 
   schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
   # workflow dispatch trigger
   workflow_dispatch:
 
