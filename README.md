@@ -244,6 +244,9 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 5. 🎉 Merged PR [#106](https://github.com/VitRod/Math_Sprint_Game_Website/pull/106) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
 <!--END_SECTION:activity-->
 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 
 # 🔱🌈 Todoist Stats: 🏳️‍🌈🔱
 
