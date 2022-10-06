@@ -201,11 +201,11 @@ https://user-images.githubusercontent.com/26525615/192006886-67e30f66-8590-42fb-
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
-HTML         5 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   32.12 %
-CSS          3 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Git          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript   7 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.83 %
+HTML         5 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 %
+CSS          2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Git          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
