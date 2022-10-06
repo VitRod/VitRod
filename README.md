@@ -6,8 +6,8 @@
 
   <!--Biden -->
   ![](https://media.giphy.com/media/V1dH38rUl9yX7xU8nh/giphy.gif)
-   ![]( https://media.giphy.com/media/8678e8syUB9UONEarp/giphy.gif  )
-   ![musk]( )
+  <!-- ![]( https://media.giphy.com/media/8678e8syUB9UONEarp/giphy.gif  ) -->
+   ![]( https://media.giphy.com/media/2dm6vY2Rk8TZEKSXWr/giphy.gif)
  ![](   )    
 
 
