@@ -21,8 +21,8 @@
 - No one is coming. YOU have to make a decision that the next chapter of your life is going to be different. That you’re not going to be unhappy or just get by. YOU have to do the work to change. / Panic disappears after repeated exposure. / When you have success, be extra wary. When you are angry, take no action. When you are fearful, know you are going to exaggerate the dangers you face. /The passive ironic attitude is not cool or romantic, but pathetic and destructive
 - You must understand the following: In order to master a field, you must love the subject and feel a profound connection to it. Your interest must transcend the field itself and border on the religious. / No one is really going to help you or give you direction. In fact, the odds are against you. / No one is coming. YOU have to make a decision that the next chapter of your life is going to be different. That you’re not going to be unhappy or just get by.
 YOU have to do the work to change.
-
-
+"Simple mindset shifts: I'm not hurt, I'm healing.I'm not losing, I'm learning. I was not rejected, I was redirected. Negative things happen. Negative mindsets make them harder." /"Over long time frames, simply staying in the game is impressive. Health and fitness: Can you stay injury free and not miss workouts? Wealth and finance: Can you avoid debt and continue to save? Business: Can you maintain cash flow and stay in business? Longevity is its own form of greatness."
+- "Balancing success and failure is a tricky thing.I'd say 8 or 9 times out of 10, you should be succeeding. Build momentum. Accumulate advantages. Feast on the feeling of success and let it feed your desire to do more.But 1 or 2 times out of 10, you should be failing. Push yourself and reach beyond your current grasp. Force yourself to try uncomfortable things. Occasionally you will surprise yourself and the rest of the time you will learn. Win enough to keep progressing. Lose enough to keep learning."
 
 
 
