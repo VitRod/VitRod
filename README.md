@@ -251,11 +251,11 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/VitRod/Math_Sprint_Game_Website/pull/171) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
-2. 💪 Opened PR [#171](https://github.com/VitRod/Math_Sprint_Game_Website/pull/171) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
-3. 🎉 Merged PR [#170](https://github.com/VitRod/Math_Sprint_Game_Website/pull/170) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
-4. 💪 Opened PR [#170](https://github.com/VitRod/Math_Sprint_Game_Website/pull/170) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
-5. 🎉 Merged PR [#169](https://github.com/VitRod/Math_Sprint_Game_Website/pull/169) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+1. 🎉 Merged PR [#174](https://github.com/VitRod/Math_Sprint_Game_Website/pull/174) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+2. 💪 Opened PR [#174](https://github.com/VitRod/Math_Sprint_Game_Website/pull/174) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+3. 🎉 Merged PR [#173](https://github.com/VitRod/Math_Sprint_Game_Website/pull/173) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+4. 💪 Opened PR [#173](https://github.com/VitRod/Math_Sprint_Game_Website/pull/173) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
+5. 🎉 Merged PR [#172](https://github.com/VitRod/Math_Sprint_Game_Website/pull/172) in [VitRod/Math_Sprint_Game_Website](https://github.com/VitRod/Math_Sprint_Game_Website)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
