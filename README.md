@@ -251,11 +251,11 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VitRod/Islands_Animated_Website/pull/3) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
-2. 💪 Opened PR [#3](https://github.com/VitRod/Islands_Animated_Website/pull/3) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
-3. 🎉 Merged PR [#2](https://github.com/VitRod/Islands_Animated_Website/pull/2) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
-4. 💪 Opened PR [#2](https://github.com/VitRod/Islands_Animated_Website/pull/2) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
-5. 🎉 Merged PR [#1](https://github.com/VitRod/Islands_Animated_Website/pull/1) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
+1. 🎉 Merged PR [#9](https://github.com/VitRod/Islands_Animated_Website/pull/9) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
+2. 💪 Opened PR [#9](https://github.com/VitRod/Islands_Animated_Website/pull/9) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
+3. 🎉 Merged PR [#8](https://github.com/VitRod/Islands_Animated_Website/pull/8) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
+4. 💪 Opened PR [#8](https://github.com/VitRod/Islands_Animated_Website/pull/8) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
+5. 🎉 Merged PR [#7](https://github.com/VitRod/Islands_Animated_Website/pull/7) in [VitRod/Islands_Animated_Website](https://github.com/VitRod/Islands_Animated_Website)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
