@@ -323,3 +323,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Ping_Pong_Game_Website&&show_icons=true&theme=radical)](https://github.com/VitRod/Ping_Pong_Game_Website)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Math_Sprint_Game_Website&&show_icons=true&theme=radical)](https://github.com/VitRod/Math_Sprint_Game_Website)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Islands_Animated_Website&&show_icons=true&theme=radical)](https://github.com/VitRod/Islands_Animated_Website)
