@@ -212,9 +212,9 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!--START_SECTION:waka-->
 
 ```text
-HTML         5 hrs 43 mins   ███████████████░░░░░░░░░░   59.49 %
-JavaScript   2 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.73 %
-CSS          1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+HTML         6 hrs 49 mins   █████████████████▒░░░░░░░   69.64 %
+JavaScript   2 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.16 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
