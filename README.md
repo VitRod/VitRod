@@ -6,8 +6,9 @@
 
 
    ![](  https://media.giphy.com/media/K9lOuHVgENt5dUWQnf/giphy.gif   )
-    ![](  https://media.giphy.com/media/3oEdv22bKDUluFKkxi/giphy.gif  )    
+  <!--  ![](  https://media.giphy.com/media/3oEdv22bKDUluFKkxi/giphy.gif  )    -->
 
+![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)
 
 
 - Fall seven times, stand up eight. Japanese proverb / Every wall is a door. Ralph Waldo Emerson / If you’re not confused, you’re not paying attention. Tom Peters / If you do it for competition you’re screwed. If you do it for love you have a chance. Maxime Lagacé / Pain is inevitable. Suffering is optional. / Failure is success if we learn from it. Malcolm Forbes / Life is short. Be patient with results and impatient with actions. / You can accomplish lots of things. Commit to ONE and give it your 100%. Then go to the next. /--- You are your worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you're only half involved in what you do. ---/ --- Without enemies around us, we grow lazy. An enemy at our heels sharpens our wits, keeping us focused and alert./
