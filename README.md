@@ -26,7 +26,7 @@ YOU have to do the work to change.
 - "Balancing success and failure is a tricky thing.I'd say 8 or 9 times out of 10, you should be succeeding. Build momentum. Accumulate advantages. Feast on the feeling of success and let it feed your desire to do more.But 1 or 2 times out of 10, you should be failing. Push yourself and reach beyond your current grasp. Force yourself to try uncomfortable things. Occasionally you will surprise yourself and the rest of the time you will learn. Win enough to keep progressing. Lose enough to keep learning." / "There can be no happiness if the things we believe in are different from the things we do."
 - Say it again:“It feels scary because it’s unfamiliar, not because I’m incapable.” / Once an action becomes automatic, you now have the mental space to observe yourself as you practice. / The great danger is that we give in to feelings of boredom, impatience, fear, and confusion. We stop observing and learning. The process comes to a halt.
 - Do not waste time on things you cannot change or influence. Just keep moving. / Move toward resistance and pain. / Masters have experienced endless criticisms of their work, doubts about their progress, and setbacks along the way. / Take pleasure in the laborious research process—enjoy the slow cooking of the idea, the organic growth that naturally takes shape over time.
-The future belongs to those who learn more skills and combine them in creative ways.
+The future belongs to those who learn more skills and combine them in creative ways. / At all costs, avoid entangling yourself emotionally in other people's dramas and battles. / Chance favors only the prepared mind.
 
 
 
