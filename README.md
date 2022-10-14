@@ -6,7 +6,7 @@
 
 
    ![]( https://media.giphy.com/media/haA7Y8YeAUPleZ68bS/giphy.gif  )
-   ![](  https://media.tenor.com/Q6-r_SLPkwUAAAAC/ewan-mcgregor.gif   ) 
+   ![](  https://media.tenor.com/sTgbqWDzYpgAAAAd/ewanmcgregor-brentonthwaites.gif   ) 
 
  <!-- ![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)    -->
 
