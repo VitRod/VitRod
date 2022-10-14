@@ -258,11 +258,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/VitRod/Animated_Navigation/pull/5) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
-2. 💪 Opened PR [#5](https://github.com/VitRod/Animated_Navigation/pull/5) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
-3. 🎉 Merged PR [#4](https://github.com/VitRod/Animated_Navigation/pull/4) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
-4. 💪 Opened PR [#4](https://github.com/VitRod/Animated_Navigation/pull/4) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
-5. 🎉 Merged PR [#3](https://github.com/VitRod/Animated_Navigation/pull/3) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
+1. 🎉 Merged PR [#6](https://github.com/VitRod/Animated_Navigation/pull/6) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
+2. 💪 Opened PR [#6](https://github.com/VitRod/Animated_Navigation/pull/6) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
+3. 🎉 Merged PR [#5](https://github.com/VitRod/Animated_Navigation/pull/5) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
+4. 💪 Opened PR [#5](https://github.com/VitRod/Animated_Navigation/pull/5) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
+5. 🎉 Merged PR [#4](https://github.com/VitRod/Animated_Navigation/pull/4) in [VitRod/Animated_Navigation](https://github.com/VitRod/Animated_Navigation)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
