@@ -28,7 +28,7 @@ YOU have to do the work to change.
 - Do not waste time on things you cannot change or influence. Just keep moving. / Move toward resistance and pain. / Masters have experienced endless criticisms of their work, doubts about their progress, and setbacks along the way. / Take pleasure in the laborious research process—enjoy the slow cooking of the idea, the organic growth that naturally takes shape over time.
 - The future belongs to those who learn more skills and combine them in creative ways. / At all costs, avoid entangling yourself emotionally in other people's dramas and battles. / Chance favors only the prepared mind. / "Two competing truths: The more prepared person usually wins. You get credit for action, not preparation." / "What appears to be a rapid shift is often preceded by a gradual process. Our results gradually explode or vanish thanks to the small habits we repeat each day. What radical change are you slowly marching toward? An incremental explosion or an incremental vanishing?"
 - "One type of person approaches a situation with the mindset of, “How can I make this work?” Another type seems to approach each circumstance with the mindset of, “What are all the reasons this wouldn’t work?” Both people will be forced to deal with reality, but the first person will only have to solve problems that actually occur while the second person will often avoid taking action entirely because of the potential problems they have dreamt up before starting. There will always be reasons to not do something. Be a problem solver, not a problem adder."
-
+- Masters are those who by nature have suffered to get to where they are.
 
 
 <!-- ### My achivements
