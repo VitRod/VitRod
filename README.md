@@ -6,7 +6,7 @@
 
 
    ![]( https://media.tenor.com/sohykrGEixgAAAAd/henrycavill.gif   )
-   ![]( https://media.tenor.com/Sk7uUd5tsTIAAAAS/squats-dwayne-johnson.gif  ) 
+   ![]( https://media.giphy.com/media/BDYADzX16SrEk/giphy.gif  ) 
 
  <!-- ![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)    -->
 
