@@ -258,11 +258,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/VitRod/Picture_in_Picture_Page/pull/5) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
-2. 💪 Opened PR [#5](https://github.com/VitRod/Picture_in_Picture_Page/pull/5) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
-3. 🎉 Merged PR [#4](https://github.com/VitRod/Picture_in_Picture_Page/pull/4) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
-4. 💪 Opened PR [#4](https://github.com/VitRod/Picture_in_Picture_Page/pull/4) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
-5. 🎉 Merged PR [#3](https://github.com/VitRod/Picture_in_Picture_Page/pull/3) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
+1. 🎉 Merged PR [#8](https://github.com/VitRod/Picture_in_Picture_Page/pull/8) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
+2. 💪 Opened PR [#8](https://github.com/VitRod/Picture_in_Picture_Page/pull/8) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
+3. 🎉 Merged PR [#7](https://github.com/VitRod/Picture_in_Picture_Page/pull/7) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
+4. 💪 Opened PR [#7](https://github.com/VitRod/Picture_in_Picture_Page/pull/7) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
+5. 🎉 Merged PR [#6](https://github.com/VitRod/Picture_in_Picture_Page/pull/6) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
