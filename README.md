@@ -4,13 +4,12 @@
 
   <!--Biden -->
 
-![Cruise_Cavill1](https://user-images.githubusercontent.com/26525615/196033721-cbe0a40b-5f28-40d9-ac5e-60c2d0034b55.gif)
-
-   ![]( https://i.pinimg.com/originals/39/1f/86/391f86a0f1596269090f5f804ce8e11c.gif  )
+![Cruise_Cavill1](https://user-images.githubusercontent.com/26525615/196033721-cbe0a40b-5f28-40d9-ac5e-60c2d0034b55.gif)  ![]( https://i.pinimg.com/originals/39/1f/86/391f86a0f1596269090f5f804ce8e11c.gif  )
    ![]( https://media.giphy.com/media/BDYADzX16SrEk/giphy.gif  ) 
    ![]( https://i.pinimg.com/originals/c0/c8/ac/c0c8ac58cd3c5fe9fbd850c8d389cc44.gif  )
    ![]( https://media.tenor.com/T6-L8pkzW9oAAAAM/dwayne-johnson-exercise.gif)
    ![](https://media.giphy.com/media/yVTjrM7Oi4Ofm/giphy.gif )
+   ![](https://i.makeagif.com/media/5-29-2014/L1pVK6.gif)
 
  <!-- ![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)    -->
 
