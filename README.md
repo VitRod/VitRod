@@ -261,11 +261,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/Event_Countdown_Page/pull/1) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
-2. 💪 Opened PR [#1](https://github.com/VitRod/Event_Countdown_Page/pull/1) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
-3. 🎉 Merged PR [#25](https://github.com/VitRod/Picture_in_Picture_Page/pull/25) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
-4. 💪 Opened PR [#25](https://github.com/VitRod/Picture_in_Picture_Page/pull/25) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
-5. 🎉 Merged PR [#24](https://github.com/VitRod/Picture_in_Picture_Page/pull/24) in [VitRod/Picture_in_Picture_Page](https://github.com/VitRod/Picture_in_Picture_Page)
+1. 🎉 Merged PR [#9](https://github.com/VitRod/Event_Countdown_Page/pull/9) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
+2. 💪 Opened PR [#9](https://github.com/VitRod/Event_Countdown_Page/pull/9) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
+3. 🎉 Merged PR [#8](https://github.com/VitRod/Event_Countdown_Page/pull/8) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
+4. 💪 Opened PR [#8](https://github.com/VitRod/Event_Countdown_Page/pull/8) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
+5. 🎉 Merged PR [#7](https://github.com/VitRod/Event_Countdown_Page/pull/7) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
