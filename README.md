@@ -355,3 +355,5 @@ Git          1 min           ░░░░░░░░░░░░░░░░░
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Animated_Navigation&&show_icons=true&theme=radical)](https://github.com/VitRod/Animated_Navigation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Picture_in_Picture_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Picture_in_Picture_Page)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Event_Countdown_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Event_Countdown_Page)
