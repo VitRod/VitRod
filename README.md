@@ -286,11 +286,11 @@ Git          1 min           ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/VitRod/Event_Countdown_Page/pull/130) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
-2. 💪 Opened PR [#130](https://github.com/VitRod/Event_Countdown_Page/pull/130) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
-3. 🎉 Merged PR [#129](https://github.com/VitRod/Event_Countdown_Page/pull/129) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
-4. 💪 Opened PR [#129](https://github.com/VitRod/Event_Countdown_Page/pull/129) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
-5. 🎉 Merged PR [#128](https://github.com/VitRod/Event_Countdown_Page/pull/128) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
+1. 🎉 Merged PR [#2](https://github.com/VitRod/Splash_Website_Page/pull/2) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+2. 💪 Opened PR [#2](https://github.com/VitRod/Splash_Website_Page/pull/2) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+3. 🎉 Merged PR [#1](https://github.com/VitRod/Splash_Website_Page/pull/1) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+4. 💪 Opened PR [#1](https://github.com/VitRod/Splash_Website_Page/pull/1) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+5. 🎉 Merged PR [#130](https://github.com/VitRod/Event_Countdown_Page/pull/130) in [VitRod/Event_Countdown_Page](https://github.com/VitRod/Event_Countdown_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
