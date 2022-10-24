@@ -45,7 +45,7 @@ YOU have to do the work to change.
 - "One type of person approaches a situation with the mindset of, “How can I make this work?” Another type seems to approach each circumstance with the mindset of, “What are all the reasons this wouldn’t work?” Both people will be forced to deal with reality, but the first person will only have to solve problems that actually occur while the second person will often avoid taking action entirely because of the potential problems they have dreamt up before starting. There will always be reasons to not do something. Be a problem solver, not a problem adder."
 - Masters are those who by nature have suffered to get to where they are. / Intellect is a magnitude of intensity (tension, energy, concentration.), not a magnitude of extensity (Directed towards a quantitative increase, expansion, distribution.). / In dealing with any problem, you must train yourself to look at how it inevitably connects to a larger picture.
 - Throughout your life you will encounter tedious situations, and you must cultivate the ability to handle them with discipline. / If we are not careful, our minds become absorbed in endless political intrigues and battles.
-- The firmer your grasp on reality, the more power you will have to alter it for your purposes. / Instead of a straight-line development from idea to fruition, the creative process is more like the crooked branching of a tree.
+- The firmer your grasp on reality, the more power you will have to alter it for your purposes. / Instead of a straight-line development from idea to fruition, the creative process is more like the crooked branching of a tree. / Read more books than those who have a formal education, developing this into a lifelong habit.
 
 
 
