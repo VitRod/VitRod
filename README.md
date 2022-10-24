@@ -295,11 +295,11 @@ Git          1 min           ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/VitRod/Calculator_Page/pull/43) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-2. 💪 Opened PR [#43](https://github.com/VitRod/Calculator_Page/pull/43) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-3. 🎉 Merged PR [#42](https://github.com/VitRod/Calculator_Page/pull/42) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-4. 💪 Opened PR [#42](https://github.com/VitRod/Calculator_Page/pull/42) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-5. 🎉 Merged PR [#41](https://github.com/VitRod/Calculator_Page/pull/41) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+1. 🎉 Merged PR [#46](https://github.com/VitRod/Calculator_Page/pull/46) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+2. 💪 Opened PR [#46](https://github.com/VitRod/Calculator_Page/pull/46) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+3. 🎉 Merged PR [#45](https://github.com/VitRod/Calculator_Page/pull/45) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+4. 💪 Opened PR [#45](https://github.com/VitRod/Calculator_Page/pull/45) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+5. 🎉 Merged PR [#44](https://github.com/VitRod/Calculator_Page/pull/44) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
