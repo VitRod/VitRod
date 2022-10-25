@@ -316,10 +316,10 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![](   https://pbs.twimg.com/media/Fdfci7dWAAoHHNT?format=png&name=small  )
-![](    https://pbs.twimg.com/media/FdfckoeWYAMIhKs?format=png&name=small    )
-![](  https://pbs.twimg.com/media/FdfcmhTXwAIve70?format=png&name=small  )
-![](   https://pbs.twimg.com/media/FdfcoE9XwAEgfbW?format=png&name=small   )
+![](  https://pbs.twimg.com/media/Ff7ZGheWIAEvVxA?format=png&name=small   )
+![](  https://pbs.twimg.com/media/Ff7ZIHmWAAcrqR2?format=png&name=small      )
+![](  https://pbs.twimg.com/media/Ff7ZJfoX0AAEe51?format=png&name=small  )
+![](  https://pbs.twimg.com/media/Ff7ZLKLWQAcU3LE?format=png&name=small   )
 ![master level](  https://pbs.twimg.com/media/FbiyQuAX0AE4-TU?format=png&name=small )
 
 
