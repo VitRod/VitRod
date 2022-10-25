@@ -50,7 +50,7 @@ YOU have to do the work to change.
 - Masters are those who by nature have suffered to get to where they are. / Intellect is a magnitude of intensity (tension, energy, concentration.), not a magnitude of extensity (Directed towards a quantitative increase, expansion, distribution.). / In dealing with any problem, you must train yourself to look at how it inevitably connects to a larger picture.
 - Throughout your life you will encounter tedious situations, and you must cultivate the ability to handle them with discipline. / If we are not careful, our minds become absorbed in endless political intrigues and battles.
 - The firmer your grasp on reality, the more power you will have to alter it for your purposes. / Instead of a straight-line development from idea to fruition, the creative process is more like the crooked branching of a tree. / Read more books than those who have a formal education, developing this into a lifelong habit. / Mistakes and failures are precisely your means of education. They tell you about your own inadequacies.
-
+- Do not take so seriously people's promises or their ardor in wanting to help you. Be prepared for the more frequent change of heart.
 
 
 
