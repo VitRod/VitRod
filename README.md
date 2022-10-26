@@ -295,11 +295,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/VitRod/Kanban_Board_Page/pull/4) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-2. 💪 Opened PR [#4](https://github.com/VitRod/Kanban_Board_Page/pull/4) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-3. 🎉 Merged PR [#3](https://github.com/VitRod/Kanban_Board_Page/pull/3) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-4. 💪 Opened PR [#3](https://github.com/VitRod/Kanban_Board_Page/pull/3) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-5. 🎉 Merged PR [#2](https://github.com/VitRod/Kanban_Board_Page/pull/2) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+1. 🎉 Merged PR [#13](https://github.com/VitRod/Kanban_Board_Page/pull/13) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+2. 💪 Opened PR [#13](https://github.com/VitRod/Kanban_Board_Page/pull/13) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+3. 🎉 Merged PR [#12](https://github.com/VitRod/Kanban_Board_Page/pull/12) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+4. 💪 Opened PR [#12](https://github.com/VitRod/Kanban_Board_Page/pull/12) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+5. 🎉 Merged PR [#11](https://github.com/VitRod/Kanban_Board_Page/pull/11) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
