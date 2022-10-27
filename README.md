@@ -310,7 +310,7 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- TODO-IST:START -->
 🏆  11,691 Karma Points           
-🌸  Completed 80 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 15,798 tasks so far           
 ⏳  Longest streak is 97 days
 <!-- TODO-IST:END -->
