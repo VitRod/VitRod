@@ -295,11 +295,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/VitRod/djangoProject/pull/2) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
-2. 💪 Opened PR [#2](https://github.com/VitRod/djangoProject/pull/2) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
-3. 🎉 Merged PR [#1](https://github.com/VitRod/djangoProject/pull/1) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
-4. 💪 Opened PR [#1](https://github.com/VitRod/djangoProject/pull/1) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
-5. 🎉 Merged PR [#33](https://github.com/VitRod/Kanban_Board_Page/pull/33) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+1. 🎉 Merged PR [#34](https://github.com/VitRod/Kanban_Board_Page/pull/34) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+2. 💪 Opened PR [#34](https://github.com/VitRod/Kanban_Board_Page/pull/34) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+3. 🎉 Merged PR [#2](https://github.com/VitRod/djangoProject/pull/2) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
+4. 💪 Opened PR [#2](https://github.com/VitRod/djangoProject/pull/2) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
+5. 🎉 Merged PR [#1](https://github.com/VitRod/djangoProject/pull/1) in [VitRod/djangoProject](https://github.com/VitRod/djangoProject)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
