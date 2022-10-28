@@ -3,7 +3,7 @@
  
 
 
-![](https://assets.rbl.ms/31827310/origin.gif )   ![](https://c.tenor.com/VChEeBliQtgAAAAd/rishi-sunak-chancellor.gif)
+![](https://assets.rbl.ms/31827310/origin.gif )   ![]()
 ![](https://media.giphy.com/media/1bpQdQ1XOuPzCWJemN/giphy.gif)
 
 <!--Mark Hamill -->
