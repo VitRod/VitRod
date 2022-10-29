@@ -295,11 +295,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/Django_login_app/pull/1) in [VitRod/Django_login_app](https://github.com/VitRod/Django_login_app)
-2. 💪 Opened PR [#1](https://github.com/VitRod/Django_login_app/pull/1) in [VitRod/Django_login_app](https://github.com/VitRod/Django_login_app)
-3. 🎉 Merged PR [#77](https://github.com/VitRod/Kanban_Board_Page/pull/77) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-4. 💪 Opened PR [#77](https://github.com/VitRod/Kanban_Board_Page/pull/77) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-5. 🎉 Merged PR [#76](https://github.com/VitRod/Kanban_Board_Page/pull/76) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+1. 🎉 Merged PR [#2](https://github.com/VitRod/Django_login_app/pull/2) in [VitRod/Django_login_app](https://github.com/VitRod/Django_login_app)
+2. 💪 Opened PR [#2](https://github.com/VitRod/Django_login_app/pull/2) in [VitRod/Django_login_app](https://github.com/VitRod/Django_login_app)
+3. 🎉 Merged PR [#1](https://github.com/VitRod/Django_login_app/pull/1) in [VitRod/Django_login_app](https://github.com/VitRod/Django_login_app)
+4. 💪 Opened PR [#1](https://github.com/VitRod/Django_login_app/pull/1) in [VitRod/Django_login_app](https://github.com/VitRod/Django_login_app)
+5. 🎉 Merged PR [#77](https://github.com/VitRod/Kanban_Board_Page/pull/77) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
