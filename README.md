@@ -369,7 +369,7 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Splash_Website_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Splash_Website_Page)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Calculator_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Calculator_Page)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Kanban_Board_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Kanban_Board_Page)
 
 
 
