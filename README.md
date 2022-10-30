@@ -295,11 +295,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/VitRod/SimpleDjangoProject/pull/2) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
-2. 🎉 Merged PR [#1](https://github.com/VitRod/SimpleDjangoProject/pull/1) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
-3. 💪 Opened PR [#1](https://github.com/VitRod/SimpleDjangoProject/pull/1) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
-4. 🎉 Merged PR [#90](https://github.com/VitRod/Kanban_Board_Page/pull/90) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
-5. 💪 Opened PR [#90](https://github.com/VitRod/Kanban_Board_Page/pull/90) in [VitRod/Kanban_Board_Page](https://github.com/VitRod/Kanban_Board_Page)
+1. 🎉 Merged PR [#3](https://github.com/VitRod/SimpleDjangoProject/pull/3) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
+2. 💪 Opened PR [#3](https://github.com/VitRod/SimpleDjangoProject/pull/3) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
+3. 🎉 Merged PR [#2](https://github.com/VitRod/SimpleDjangoProject/pull/2) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
+4. 💪 Opened PR [#2](https://github.com/VitRod/SimpleDjangoProject/pull/2) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
+5. 🎉 Merged PR [#1](https://github.com/VitRod/SimpleDjangoProject/pull/1) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
