@@ -295,11 +295,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VitRod/Todo_List_Page/pull/3) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-2. 💪 Opened PR [#3](https://github.com/VitRod/Todo_List_Page/pull/3) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-3. 🎉 Merged PR [#4](https://github.com/VitRod/SimpleDjangoProject/pull/4) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
-4. 💪 Opened PR [#4](https://github.com/VitRod/SimpleDjangoProject/pull/4) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
-5. 🎉 Merged PR [#2](https://github.com/VitRod/Todo_List_Page/pull/2) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+1. 🎉 Merged PR [#4](https://github.com/VitRod/Todo_List_Page/pull/4) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+2. 💪 Opened PR [#4](https://github.com/VitRod/Todo_List_Page/pull/4) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+3. 🎉 Merged PR [#3](https://github.com/VitRod/Todo_List_Page/pull/3) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+4. 💪 Opened PR [#3](https://github.com/VitRod/Todo_List_Page/pull/3) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+5. 🎉 Merged PR [#4](https://github.com/VitRod/SimpleDjangoProject/pull/4) in [VitRod/SimpleDjangoProject](https://github.com/VitRod/SimpleDjangoProject)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
