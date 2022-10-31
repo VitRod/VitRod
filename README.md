@@ -296,11 +296,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/VitRod/Todo_List_Page/pull/17) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-2. 💪 Opened PR [#17](https://github.com/VitRod/Todo_List_Page/pull/17) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-3. 🎉 Merged PR [#16](https://github.com/VitRod/Todo_List_Page/pull/16) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-4. 💪 Opened PR [#16](https://github.com/VitRod/Todo_List_Page/pull/16) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-5. 🎉 Merged PR [#15](https://github.com/VitRod/Todo_List_Page/pull/15) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+1. 🎉 Merged PR [#18](https://github.com/VitRod/Todo_List_Page/pull/18) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+2. 💪 Opened PR [#18](https://github.com/VitRod/Todo_List_Page/pull/18) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+3. 🎉 Merged PR [#17](https://github.com/VitRod/Todo_List_Page/pull/17) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+4. 💪 Opened PR [#17](https://github.com/VitRod/Todo_List_Page/pull/17) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+5. 🎉 Merged PR [#16](https://github.com/VitRod/Todo_List_Page/pull/16) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
