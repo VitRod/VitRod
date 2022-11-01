@@ -296,11 +296,11 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VitRod/SimpleCrudDjangoApp/pull/3) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
-2. 💪 Opened PR [#3](https://github.com/VitRod/SimpleCrudDjangoApp/pull/3) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
-3. 🎉 Merged PR [#2](https://github.com/VitRod/SimpleCrudDjangoApp/pull/2) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
-4. 💪 Opened PR [#2](https://github.com/VitRod/SimpleCrudDjangoApp/pull/2) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
-5. 🎉 Merged PR [#50](https://github.com/VitRod/Todo_List_Page/pull/50) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+1. 🎉 Merged PR [#5](https://github.com/VitRod/SimpleCrudDjangoApp/pull/5) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+2. 💪 Opened PR [#5](https://github.com/VitRod/SimpleCrudDjangoApp/pull/5) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+3. 🎉 Merged PR [#4](https://github.com/VitRod/SimpleCrudDjangoApp/pull/4) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+4. 💪 Opened PR [#4](https://github.com/VitRod/SimpleCrudDjangoApp/pull/4) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+5. 🎉 Merged PR [#3](https://github.com/VitRod/SimpleCrudDjangoApp/pull/3) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
