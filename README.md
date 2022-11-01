@@ -373,5 +373,10 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Kanban_Board_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Kanban_Board_Page)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleDjangoProject&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleDjangoProject)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Todo_List_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Todo_List_Page)
+
+
+
+
 
 
