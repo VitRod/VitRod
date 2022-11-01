@@ -52,7 +52,7 @@ YOU have to do the work to change.
 - Throughout your life you will encounter tedious situations, and you must cultivate the ability to handle them with discipline. / If we are not careful, our minds become absorbed in endless political intrigues and battles.
 - The firmer your grasp on reality, the more power you will have to alter it for your purposes. / Instead of a straight-line development from idea to fruition, the creative process is more like the crooked branching of a tree. / Read more books than those who have a formal education, developing this into a lifelong habit. / Mistakes and failures are precisely your means of education. They tell you about your own inadequacies.
 - Do not take so seriously people's promises or their ardor in wanting to help you. Be prepared for the more frequent change of heart.
-- You must practice and develop boldness. You will often find uses for it.
+- You must practice and develop boldness. You will often find uses for it./Each problem or project is different. Hurrying to the end or warming up old ideas will ensure mediocre results.
 
 
 
