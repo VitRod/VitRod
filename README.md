@@ -2,7 +2,6 @@
 
  
 
-
 ![hanry cavill](https://media.giphy.com/media/gft2md5CulN04/giphy.gif)   ![daniel radcliffe](https://media.giphy.com/media/g6U0JhpfFuKjK/giphy.gif)   ![Ewan Mcfregor](https://media.tenor.com/lKNB5fjpyocAAAAC/ewan-mc-gregor-ewan-gordon-mc-gregor.gif)
 ![](https://media.giphy.com/media/1bpQdQ1XOuPzCWJemN/giphy.gif)
 
