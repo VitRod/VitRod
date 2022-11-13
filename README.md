@@ -51,7 +51,7 @@ YOU have to do the work to change.
 - The firmer your grasp on reality, the more power you will have to alter it for your purposes. / Instead of a straight-line development from idea to fruition, the creative process is more like the crooked branching of a tree. / Read more books than those who have a formal education, developing this into a lifelong habit. / Mistakes and failures are precisely your means of education. They tell you about your own inadequacies.
 - Do not take so seriously people's promises or their ardor in wanting to help you. Be prepared for the more frequent change of heart. / It is best to have wide knowledge of your field and other fields, giving your brain more possible associations and connections. / Over time, mastery will come to you.
 - You must practice and develop boldness. You will often find uses for it./Each problem or project is different. Hurrying to the end or warming up old ideas will ensure mediocre results. / Scoff at the need for attention and approval—they will lead you astray (Насмехайтесь над потребностью во внимании и одобрении — они уведут вас в заблуждение.).
-- Step aggressively towards your fear - that is the  step into bravery / A leader must be humble but not passive, quiet but not silent.(Jocko Willink)
+- Step aggressively towards your fear - that is the  step into bravery / A leader must be humble but not passive, quiet but not silent.(Jocko Willink) / You are not too busy, you are afraid to do the work/ My biggest breakthrough moments happen when I finally  admit that I am tired if my own shit (Mel Robbins)
 
 
 
