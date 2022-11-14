@@ -253,8 +253,7 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 mins          ████████████████████████▓   98.85 %
-Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JavaScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
