@@ -1,11 +1,8 @@
 name: My Recent Activity Update
 
-on: 
-
+on:
   schedule:
-    # Runs every 10 minutes
-    - cron: '*/10 * * * *'
-  # workflow dispatch trigger
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,8 +12,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-     #  - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
-     #  - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Specify a custom commit message'
+          MAX_LINES: 10
