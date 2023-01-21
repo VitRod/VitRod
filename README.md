@@ -317,11 +317,11 @@ No activity tracked
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/VitRod/Todo_List_Page/pull/92) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-2. 💪 Opened PR [#92](https://github.com/VitRod/Todo_List_Page/pull/92) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-3. 🎉 Merged PR [#91](https://github.com/VitRod/Todo_List_Page/pull/91) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-4. 💪 Opened PR [#91](https://github.com/VitRod/Todo_List_Page/pull/91) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
-5. 🎉 Merged PR [#90](https://github.com/VitRod/Todo_List_Page/pull/90) in [VitRod/Todo_List_Page](https://github.com/VitRod/Todo_List_Page)
+1. 🎉 Merged PR [#76](https://github.com/VitRod/Splash_Website_Page/pull/76) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+2. 💪 Opened PR [#76](https://github.com/VitRod/Splash_Website_Page/pull/76) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+3. 🎉 Merged PR [#75](https://github.com/VitRod/Splash_Website_Page/pull/75) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+4. 💪 Opened PR [#75](https://github.com/VitRod/Splash_Website_Page/pull/75) in [VitRod/Splash_Website_Page](https://github.com/VitRod/Splash_Website_Page)
+5. 🎉 Merged PR [#71](https://github.com/VitRod/Light_And_Dark_Mode_Page/pull/71) in [VitRod/Light_And_Dark_Mode_Page](https://github.com/VitRod/Light_And_Dark_Mode_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
