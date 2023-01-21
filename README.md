@@ -230,6 +230,9 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
  <img align="center" alt="VitRod-todoist"  src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white">
  <img align="center" alt="VitRod-gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  
  <img align="center" alt="VitRod-Harvest"  src="https://img.shields.io/badge/H-HARVEST-orange"> 
+  <img align="center" alt="VitRod-AZURE"  src="[https://img.shields.io/badge/H-HARVEST-orange](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)"> 
+   
+   
    
 </div>
 
