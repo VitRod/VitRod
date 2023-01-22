@@ -338,10 +338,10 @@ No activity tracked
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![](  https://pbs.twimg.com/media/Ff7ZGheWIAEvVxA?format=png&name=small   )
-![](  https://pbs.twimg.com/media/Ff7ZIHmWAAcrqR2?format=png&name=small      )
-![](  https://pbs.twimg.com/media/Ff7ZJfoX0AAEe51?format=png&name=small  )
-![](  https://pbs.twimg.com/media/Ff7ZLKLWQAcU3LE?format=png&name=small   )
+![]( https://pbs.twimg.com/media/FnEJu1mWQAAeSh7?format=png&name=small   )
+![](  https://pbs.twimg.com/media/FnEJxNIX0AAj2CT?format=png&name=small      )
+![](  https://pbs.twimg.com/media/FnEJzSyXoAESGWV?format=png&name=small  )
+![](  https://pbs.twimg.com/media/FnEJ2afWAAALTle?format=png&name=small   )
 ![master level](  https://pbs.twimg.com/media/FbiyQuAX0AE4-TU?format=png&name=small )
 
 
