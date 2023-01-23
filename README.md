@@ -317,11 +317,11 @@ No activity tracked
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/VitRod/Calculator_Page/pull/119) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-2. 💪 Opened PR [#119](https://github.com/VitRod/Calculator_Page/pull/119) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-3. 🎉 Merged PR [#118](https://github.com/VitRod/Calculator_Page/pull/118) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-4. 💪 Opened PR [#118](https://github.com/VitRod/Calculator_Page/pull/118) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-5. 🎉 Merged PR [#117](https://github.com/VitRod/Calculator_Page/pull/117) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+1. 🎉 Merged PR [#10](https://github.com/VitRod/SimpleCrudDjangoApp/pull/10) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+2. 💪 Opened PR [#10](https://github.com/VitRod/SimpleCrudDjangoApp/pull/10) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+3. 🎉 Merged PR [#9](https://github.com/VitRod/SimpleCrudDjangoApp/pull/9) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+4. 💪 Opened PR [#9](https://github.com/VitRod/SimpleCrudDjangoApp/pull/9) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
+5. 🎉 Merged PR [#8](https://github.com/VitRod/SimpleCrudDjangoApp/pull/8) in [VitRod/SimpleCrudDjangoApp](https://github.com/VitRod/SimpleCrudDjangoApp)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
