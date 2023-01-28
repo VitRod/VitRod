@@ -232,7 +232,10 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
  <img align="center" alt="VitRod-Slack"  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
  <img align="center" alt="VitRod-Slack"  src="https://img.shields.io/badge/Zulip-ZULIP-brightgreen"> 
   
-   
+  <img align="center" alt="VitRod-Zoom"  src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> 
+  <img align="center" alt="VitRod-Skype"  src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"> 
+  <img align="center" alt="VitRod-Google-Meet"  src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
+  <img align="center" alt="VitRod-Discord"  src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> 
    
 </div>
 
