@@ -1,13 +1,11 @@
 ### Day of FOCUSING!!!!
 
 
-![hanry cavill](https://media.tenor.com/-9FoN19AD-gAAAAC/henry-cavill.gif)   ![daniel radcliffe](https://media.giphy.com/media/g6U0JhpfFuKjK/giphy.gif)   ![Ewan Mcfregor](https://media.tenor.com/lKNB5fjpyocAAAAC/ewan-mc-gregor-ewan-gordon-mc-gregor.gif)
-![](https://media.giphy.com/media/1bpQdQ1XOuPzCWJemN/giphy.gif)
+![hanry cavill](https://media.tenor.com/-9FoN19AD-gAAAAC/henry-cavill.gif)   ![daniel radcliffe](https://media.tenor.com/tH5WdSCz0soAAAAC/shut-up-daniel-radcliffe.gif)   ![Ewan Mcfregor](https://i.pinimg.com/originals/7e/fb/53/7efb536b33ac2ef413c774fb5da83a9c.gif)
+![zelemskiy](https://thumbs.gfycat.com/ViciousQualifiedFlyingfox-max-1mb.gif)
 
 
-![Mark Hamill](https://media.tenor.com/yDBJJg6wENUAAAAC/mark-hamil-luke-skywalker.gif) 
-
-<!-- ![Cruise_Cavill1](https://user-images.githubusercontent.com/26525615/196033721-cbe0a40b-5f28-40d9-ac5e-60c2d0034b55.gif) -->
+![Mark Hamill](https://img.izismile.com/img/img12/20190829/gifs/mark_hamill_facts_have_the_force_in_them_15.gif)  ![Cruise_Cavill1](https://user-images.githubusercontent.com/26525615/196033721-cbe0a40b-5f28-40d9-ac5e-60c2d0034b55.gif) ![Keanu reeves](https://media.tenor.com/ORNRp_g47RUAAAAC/i-remember-this-neo.gif)
 <!--![]( https://media.giphy.com/media/nMmV8UjO6pgfR6v8I8/giphy.gif ) -->
 
 <!--Dwayne Johnson -->
