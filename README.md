@@ -236,6 +236,11 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
   <img align="center" alt="VitRod-Skype"  src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"> 
   <img align="center" alt="VitRod-Google-Meet"  src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
   <img align="center" alt="VitRod-Discord"  src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> 
+   <img align="center" alt="VitRod-HURMA"  src="https://img.shields.io/badge/Hurma-HURMA-orange"> 
+   
+   
+   
+   
    
 </div>
 
