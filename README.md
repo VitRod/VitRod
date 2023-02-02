@@ -283,8 +283,12 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   6 mins          ████████████████████████░   95.93 %
-Markdown         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Python           4 hrs 53 mins   ██████████████████▒░░░░░░   72.84 %
+GitIgnore file   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+TOML             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Text             26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
