@@ -283,12 +283,12 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!--START_SECTION:waka-->
 
 ```text
-Python           4 hrs 53 mins   ██████████████████▒░░░░░░   72.84 %
-GitIgnore file   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-TOML             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Text             26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python           5 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   35.58 %
+Bash             1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Markdown         1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+JSON             1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Docker           1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+GitIgnore file   1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
