@@ -283,12 +283,12 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!--START_SECTION:waka-->
 
 ```text
-Python           5 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   35.58 %
-Bash             1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Markdown         1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-JSON             1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Docker           1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-GitIgnore file   1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Python           6 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+Markdown         5 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+Bash             5 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+JSON             1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Text             1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+yarn.lock        1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
