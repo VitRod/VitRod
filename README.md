@@ -331,11 +331,11 @@ yarn.lock        1 hr 21 mins    █▒░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/VitRod/Calculator_Page/pull/181) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-2. 💪 Opened PR [#181](https://github.com/VitRod/Calculator_Page/pull/181) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
-3. 🎉 Merged PR [#10](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/10) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-4. 💪 Opened PR [#10](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/10) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-5. 🎉 Merged PR [#9](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/9) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+1. 🎉 Merged PR [#184](https://github.com/VitRod/Calculator_Page/pull/184) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+2. 💪 Opened PR [#184](https://github.com/VitRod/Calculator_Page/pull/184) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+3. 🎉 Merged PR [#183](https://github.com/VitRod/Calculator_Page/pull/183) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+4. 💪 Opened PR [#183](https://github.com/VitRod/Calculator_Page/pull/183) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+5. 🎉 Merged PR [#182](https://github.com/VitRod/Calculator_Page/pull/182) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
