@@ -406,6 +406,8 @@ yarn.lock        1 hr 21 mins    █▒░░░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleDjangoProject&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleDjangoProject)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Todo_List_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Todo_List_Page)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=DjangoCrudProjectWithAdmin&&show_icons=true&theme=radical)](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+
 
 
 
