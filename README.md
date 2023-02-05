@@ -331,11 +331,11 @@ JSON              2 hrs 1 min     █░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/12) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-2. 💪 Opened PR [#12](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/12) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-3. 🎉 Merged PR [#11](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/11) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-4. 💪 Opened PR [#11](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/11) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-5. 🎉 Merged PR [#185](https://github.com/VitRod/Calculator_Page/pull/185) in [VitRod/Calculator_Page](https://github.com/VitRod/Calculator_Page)
+1. 🎉 Merged PR [#13](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/13) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+2. 💪 Opened PR [#13](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/13) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+3. 🎉 Merged PR [#12](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/12) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+4. 💪 Opened PR [#12](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/12) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+5. 🎉 Merged PR [#11](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/11) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
