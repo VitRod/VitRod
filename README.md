@@ -283,12 +283,12 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!--START_SECTION:waka-->
 
 ```text
-Python                     72 hrs 3 mins   █████████████████▓░░░░░░░   70.85 %
-HTML                       7 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Bash                       6 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Markdown                   4 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-GitIgnore file             2 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-YAML                       2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Python                     72 hrs 22 mins  ██████████████████▒░░░░░░   73.80 %
+HTML                       11 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+YAML                       2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Bash                       2 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+CSS                        2 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+GitIgnore file             2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
