@@ -407,7 +407,7 @@ GitIgnore file             2 hrs 17 mins   ▓░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Todo_List_Page&&show_icons=true&theme=radical)](https://github.com/VitRod/Todo_List_Page)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=DjangoCrudProjectWithAdmin&&show_icons=true&theme=radical)](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=RecaptchaDjangoProject&&show_icons=true&theme=radical)](https://github.com/VitRod/RecaptchaDjangoProject)
 
 
 
