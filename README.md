@@ -331,11 +331,11 @@ GitIgnore file             2 hrs 17 mins   ▓░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/71) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-2. 💪 Opened PR [#71](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/71) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-3. 🎉 Merged PR [#70](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/70) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-4. 💪 Opened PR [#70](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/70) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
-5. 🎉 Merged PR [#69](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/69) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
+1. 🎉 Merged PR [#2](https://github.com/VitRod/RecaptchaDjangoProject/pull/2) in [VitRod/RecaptchaDjangoProject](https://github.com/VitRod/RecaptchaDjangoProject)
+2. 💪 Opened PR [#2](https://github.com/VitRod/RecaptchaDjangoProject/pull/2) in [VitRod/RecaptchaDjangoProject](https://github.com/VitRod/RecaptchaDjangoProject)
+3. 🎉 Merged PR [#1](https://github.com/VitRod/RecaptchaDjangoProject/pull/1) in [VitRod/RecaptchaDjangoProject](https://github.com/VitRod/RecaptchaDjangoProject)
+4. 💪 Opened PR [#1](https://github.com/VitRod/RecaptchaDjangoProject/pull/1) in [VitRod/RecaptchaDjangoProject](https://github.com/VitRod/RecaptchaDjangoProject)
+5. 🎉 Merged PR [#71](https://github.com/VitRod/DjangoCrudProjectWithAdmin/pull/71) in [VitRod/DjangoCrudProjectWithAdmin](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
