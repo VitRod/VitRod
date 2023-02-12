@@ -409,7 +409,7 @@ Bash                       1 hr 2 mins     ▒░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=DjangoCrudProjectWithAdmin&&show_icons=true&theme=radical)](https://github.com/VitRod/DjangoCrudProjectWithAdmin)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=RecaptchaDjangoProject&&show_icons=true&theme=radical)](https://github.com/VitRod/RecaptchaDjangoProject)
 
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleBooksStoreDjango&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleBooksStoreDjango)
 
 
 
