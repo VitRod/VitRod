@@ -331,11 +331,11 @@ Shell Script               27 mins         ░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VitRod/SimpleBooksStoreDjango/pull/3) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-2. 💪 Opened PR [#3](https://github.com/VitRod/SimpleBooksStoreDjango/pull/3) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-3. 🎉 Merged PR [#2](https://github.com/VitRod/SimpleBooksStoreDjango/pull/2) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-4. 💪 Opened PR [#2](https://github.com/VitRod/SimpleBooksStoreDjango/pull/2) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-5. 🎉 Merged PR [#5](https://github.com/VitRod/RecaptchaDjangoProject/pull/5) in [VitRod/RecaptchaDjangoProject](https://github.com/VitRod/RecaptchaDjangoProject)
+1. 🎉 Merged PR [#7](https://github.com/VitRod/SimpleBooksStoreDjango/pull/7) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+2. 💪 Opened PR [#7](https://github.com/VitRod/SimpleBooksStoreDjango/pull/7) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+3. 🎉 Merged PR [#6](https://github.com/VitRod/SimpleBooksStoreDjango/pull/6) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+4. 💪 Opened PR [#6](https://github.com/VitRod/SimpleBooksStoreDjango/pull/6) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+5. 🎉 Merged PR [#5](https://github.com/VitRod/SimpleBooksStoreDjango/pull/5) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
