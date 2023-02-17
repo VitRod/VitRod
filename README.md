@@ -238,7 +238,7 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
    <img align="center" alt="VitRod-HURMA"  src="https://img.shields.io/badge/Hurma-HURMA-yellow"> 
    
    <img align="center" alt="VitRod-Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-   
+   <img align="center" alt="VitRod-Search Console"  src="https://img.shields.io/badge/Google-Google%20Search%20Console-orange">
    
    
    
