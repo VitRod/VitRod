@@ -331,11 +331,11 @@ SCSS             22 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-2. 💪 Opened PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-3. 🎉 Merged PR [#35](https://github.com/VitRod/SimpleBooksStoreDjango/pull/35) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-4. 💪 Opened PR [#35](https://github.com/VitRod/SimpleBooksStoreDjango/pull/35) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-5. 🎉 Merged PR [#34](https://github.com/VitRod/SimpleBooksStoreDjango/pull/34) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+1. 🎉 Merged PR [#36](https://github.com/VitRod/SimpleBooksStoreDjango/pull/36) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+2. 💪 Opened PR [#36](https://github.com/VitRod/SimpleBooksStoreDjango/pull/36) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+3. 🎉 Merged PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+4. 💪 Opened PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+5. 🎉 Merged PR [#35](https://github.com/VitRod/SimpleBooksStoreDjango/pull/35) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
