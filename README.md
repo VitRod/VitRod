@@ -331,11 +331,11 @@ GitIgnore file   1 min           ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-2. 💪 Opened PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-3. 🎉 Merged PR [#48](https://github.com/VitRod/SimpleBooksStoreDjango/pull/48) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-4. 💪 Opened PR [#48](https://github.com/VitRod/SimpleBooksStoreDjango/pull/48) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
-5. 🎉 Merged PR [#47](https://github.com/VitRod/SimpleBooksStoreDjango/pull/47) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
+1. 🎉 Merged PR [#2](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/2) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+2. 💪 Opened PR [#2](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/2) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+3. 🎉 Merged PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+4. 💪 Opened PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+5. 🎉 Merged PR [#48](https://github.com/VitRod/SimpleBooksStoreDjango/pull/48) in [VitRod/SimpleBooksStoreDjango](https://github.com/VitRod/SimpleBooksStoreDjango)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
