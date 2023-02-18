@@ -410,6 +410,6 @@ GitIgnore file   1 min           ░░░░░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=RecaptchaDjangoProject&&show_icons=true&theme=radical)](https://github.com/VitRod/RecaptchaDjangoProject)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleBooksStoreDjango&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleBooksStoreDjango)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=CRUD_Django_Bootstrap_App&&show_icons=true&theme=radical)](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
 
 
