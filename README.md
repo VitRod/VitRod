@@ -331,11 +331,11 @@ GitIgnore file   31 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/3) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-2. 💪 Opened PR [#3](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/3) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-3. 🎉 Merged PR [#2](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/2) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-4. 💪 Opened PR [#2](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/2) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
-5. 🎉 Merged PR [#1](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/1) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+1. 🎉 Merged PR [#7](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/7) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+2. 💪 Opened PR [#7](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/7) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+3. 🎉 Merged PR [#6](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/6) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+4. 💪 Opened PR [#6](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/6) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
+5. 🎉 Merged PR [#5](https://github.com/VitRod/CRUD_Django_Bootstrap_App/pull/5) in [VitRod/CRUD_Django_Bootstrap_App](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
