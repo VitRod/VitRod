@@ -1,7 +1,7 @@
 ### Day of FOCUSING!!!!
 
 
-![hanry cavill](https://media.tenor.com/-9FoN19AD-gAAAAC/henry-cavill.gif)   ![daniel radcliffe](https://media.tenor.com/tH5WdSCz0soAAAAC/shut-up-daniel-radcliffe.gif)  ![elijah wood](https://thumbs.gfycat.com/CluelessFrankIndochinahogdeer-max-1mb.gif)  ![Ewan Mcfregor](https://i.pinimg.com/originals/7e/fb/53/7efb536b33ac2ef413c774fb5da83a9c.gif)
+![hanry cavill](https://media.tenor.com/-9FoN19AD-gAAAAC/henry-cavill.gif)   ![daniel radcliffe](https://media.tenor.com/tH5WdSCz0soAAAAC/shut-up-daniel-radcliffe.gif)  ![elijah wood](https://thumbs.gfycat.com/CluelessFrankIndochinahogdeer-max-1mb.gif)  ![Ewan Mcfregor](https://64.media.tumblr.com/89843549529a1aed9e96fe4830bcd9ed/aba84abec777ddad-e0/s540x810/24521cf5ea5d90bbad480f24bfdcd260b02c299b.gif) ![ewan mcgregor](https://64.media.tumblr.com/0c3f58789b7906b4332c3b4e62ba8180/d6f9bd09e1a51035-62/s540x810/42b9cf693b0417b988e5d4d9418d2a33ee9685c8.gif)
 ![zelemskiy](https://thumbs.gfycat.com/ViciousQualifiedFlyingfox-max-1mb.gif)
 
 
