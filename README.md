@@ -412,4 +412,6 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=SimpleBooksStoreDjango&&show_icons=true&theme=radical)](https://github.com/VitRod/SimpleBooksStoreDjango)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=CRUD_Django_Bootstrap_App&&show_icons=true&theme=radical)](https://github.com/VitRod/CRUD_Django_Bootstrap_App)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=ContactApplication&&show_icons=true&theme=radical)](https://github.com/VitRod/ContactApplication)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=CalculatorSpringBootApp&&show_icons=true&theme=radical)](https://github.com/VitRod/CalculatorSpringBootApp)
+
 
