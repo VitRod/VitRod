@@ -219,6 +219,8 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
  <!-- Teminal -->
  <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  <img align="center" alt="VitRod-powershell"  src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img align="center" alt="VitRod-Terminal"  src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  
  
  
  <!-- Other -->
