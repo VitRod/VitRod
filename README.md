@@ -331,11 +331,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/VitRod/CalculatorSpringBootApp/pull/4) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
-2. 💪 Opened PR [#4](https://github.com/VitRod/CalculatorSpringBootApp/pull/4) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
-3. 🎉 Merged PR [#3](https://github.com/VitRod/CalculatorSpringBootApp/pull/3) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
-4. 💪 Opened PR [#3](https://github.com/VitRod/CalculatorSpringBootApp/pull/3) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
-5. 🎉 Merged PR [#2](https://github.com/VitRod/CalculatorSpringBootApp/pull/2) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
+1. 🎉 Merged PR [#7](https://github.com/VitRod/ContactApplication/pull/7) in [VitRod/ContactApplication](https://github.com/VitRod/ContactApplication)
+2. 💪 Opened PR [#7](https://github.com/VitRod/ContactApplication/pull/7) in [VitRod/ContactApplication](https://github.com/VitRod/ContactApplication)
+3. 🎉 Merged PR [#6](https://github.com/VitRod/CalculatorSpringBootApp/pull/6) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
+4. 💪 Opened PR [#6](https://github.com/VitRod/CalculatorSpringBootApp/pull/6) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
+5. 🎉 Merged PR [#5](https://github.com/VitRod/CalculatorSpringBootApp/pull/5) in [VitRod/CalculatorSpringBootApp](https://github.com/VitRod/CalculatorSpringBootApp)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
