@@ -333,11 +333,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/1) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-2. 💪 Opened PR [#1](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/1) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-3. 🎉 Merged PR [#120](https://github.com/VitRod/RecaptchaSpringboot/pull/120) in [VitRod/RecaptchaSpringboot](https://github.com/VitRod/RecaptchaSpringboot)
-4. 💪 Opened PR [#120](https://github.com/VitRod/RecaptchaSpringboot/pull/120) in [VitRod/RecaptchaSpringboot](https://github.com/VitRod/RecaptchaSpringboot)
-5. 🎉 Merged PR [#119](https://github.com/VitRod/RecaptchaSpringboot/pull/119) in [VitRod/RecaptchaSpringboot](https://github.com/VitRod/RecaptchaSpringboot)
+1. 🎉 Merged PR [#3](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/3) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+2. 💪 Opened PR [#3](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/3) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+3. 🎉 Merged PR [#2](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/2) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+4. 💪 Opened PR [#2](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/2) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+5. 🎉 Merged PR [#1](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/1) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
