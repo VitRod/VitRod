@@ -333,11 +333,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/VitRod/VitRod/issues/1) in [VitRod/VitRod](https://github.com/VitRod/VitRod)
-2. 🎉 Merged PR [#20](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/20) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-3. 💪 Opened PR [#20](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/20) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-4. 🎉 Merged PR [#19](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/19) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-5. 💪 Opened PR [#19](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/19) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+1. 🎉 Merged PR [#24](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/24) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+2. 💪 Opened PR [#24](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/24) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+3. 🎉 Merged PR [#23](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/23) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+4. 💪 Opened PR [#23](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/23) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+5. 🎉 Merged PR [#22](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/22) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
