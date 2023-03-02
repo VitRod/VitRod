@@ -70,7 +70,7 @@ YOU have to do the work to change.
 - "The 2-step process for exceptional results:(1) Spend a little time each day thinking about the highest leverage activity available to you. (2) Spend a little time each day working on it."
 - "With the creative process, the key is to create a lot and edit a lot. Make more than you need, then remove everything that isn't exceptional."
 - "What you do on your ordinary days determines what you can achieve on your extraordinary days." / Novelist Paulo Coelho on taking action: "One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now." / Is it better to delay getting started by weeks or months so I can be fully prepared? Or is it better to start right now with little to no preparation?
-
+- "When you need to learn quickly, learn from others. When you need to learn deeply, learn from experience." / "If two people have the same goal, you know nothing about the similarity of their results. But if two people have the same daily habits, you can infer quite a bit about the similarity of their results. Your results are largely a byproduct of your habits." / "A paradox of life is that the greatest returns come in the long-term, but the opportunity cost of moving slowly is huge. Long-term thinking is not slow acting. Act fast on things that compound. Never let a day pass without doing something that will benefit you in a decade."
 
 
 
