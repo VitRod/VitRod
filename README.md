@@ -333,11 +333,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/spring-boot-todo-app/pull/1) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
-2. 💪 Opened PR [#1](https://github.com/VitRod/spring-boot-todo-app/pull/1) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
-3. 🎉 Merged PR [#81](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/81) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-4. 💪 Opened PR [#81](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/81) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
-5. 🎉 Merged PR [#80](https://github.com/VitRod/ScheduleAndClasstimetableApplication/pull/80) in [VitRod/ScheduleAndClasstimetableApplication](https://github.com/VitRod/ScheduleAndClasstimetableApplication)
+1. 🎉 Merged PR [#3](https://github.com/VitRod/spring-boot-todo-app/pull/3) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+2. 💪 Opened PR [#3](https://github.com/VitRod/spring-boot-todo-app/pull/3) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+3. 🎉 Merged PR [#2](https://github.com/VitRod/spring-boot-todo-app/pull/2) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+4. 💪 Opened PR [#2](https://github.com/VitRod/spring-boot-todo-app/pull/2) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+5. 🎉 Merged PR [#1](https://github.com/VitRod/spring-boot-todo-app/pull/1) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
