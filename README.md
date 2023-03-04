@@ -333,11 +333,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/VitRod/spring-boot-todo-app/pull/10) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
-2. 💪 Opened PR [#10](https://github.com/VitRod/spring-boot-todo-app/pull/10) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
-3. 🎉 Merged PR [#9](https://github.com/VitRod/spring-boot-todo-app/pull/9) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
-4. 💪 Opened PR [#9](https://github.com/VitRod/spring-boot-todo-app/pull/9) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
-5. 🎉 Merged PR [#8](https://github.com/VitRod/spring-boot-todo-app/pull/8) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+1. 🎉 Merged PR [#16](https://github.com/VitRod/spring-boot-todo-app/pull/16) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+2. 💪 Opened PR [#16](https://github.com/VitRod/spring-boot-todo-app/pull/16) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+3. 🎉 Merged PR [#15](https://github.com/VitRod/spring-boot-todo-app/pull/15) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+4. 💪 Opened PR [#15](https://github.com/VitRod/spring-boot-todo-app/pull/15) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+5. 🎉 Merged PR [#14](https://github.com/VitRod/spring-boot-todo-app/pull/14) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
