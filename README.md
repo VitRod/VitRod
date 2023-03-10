@@ -342,11 +342,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VitRod/spring-movie-application/pull/1) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-2. 💪 Opened PR [#1](https://github.com/VitRod/spring-movie-application/pull/1) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-3. 🎉 Merged PR [#6](https://github.com/VitRod/spring-mvc-court-reservation/pull/6) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
-4. 💪 Opened PR [#6](https://github.com/VitRod/spring-mvc-court-reservation/pull/6) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
-5. 🎉 Merged PR [#5](https://github.com/VitRod/spring-mvc-court-reservation/pull/5) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+1. 🎉 Merged PR [#17](https://github.com/VitRod/spring-mvc-court-reservation/pull/17) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+2. 💪 Opened PR [#17](https://github.com/VitRod/spring-mvc-court-reservation/pull/17) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+3. 🎉 Merged PR [#16](https://github.com/VitRod/spring-mvc-court-reservation/pull/16) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+4. 💪 Opened PR [#16](https://github.com/VitRod/spring-mvc-court-reservation/pull/16) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+5. 🎉 Merged PR [#15](https://github.com/VitRod/spring-mvc-court-reservation/pull/15) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
