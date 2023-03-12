@@ -342,11 +342,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/VitRod/spring-mvc-court-reservation/pull/110) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
-2. 💪 Opened PR [#110](https://github.com/VitRod/spring-mvc-court-reservation/pull/110) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
-3. 🎉 Merged PR [#109](https://github.com/VitRod/spring-mvc-court-reservation/pull/109) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
-4. 💪 Opened PR [#109](https://github.com/VitRod/spring-mvc-court-reservation/pull/109) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
-5. 🎉 Merged PR [#108](https://github.com/VitRod/spring-mvc-court-reservation/pull/108) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+1. 🎉 Merged PR [#120](https://github.com/VitRod/spring-mvc-court-reservation/pull/120) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+2. 💪 Opened PR [#120](https://github.com/VitRod/spring-mvc-court-reservation/pull/120) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+3. 🎉 Merged PR [#119](https://github.com/VitRod/spring-mvc-court-reservation/pull/119) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+4. 💪 Opened PR [#119](https://github.com/VitRod/spring-mvc-court-reservation/pull/119) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
+5. 🎉 Merged PR [#118](https://github.com/VitRod/spring-mvc-court-reservation/pull/118) in [VitRod/spring-mvc-court-reservation](https://github.com/VitRod/spring-mvc-court-reservation)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
