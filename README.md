@@ -260,20 +260,6 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 
 
 
- 
-
-  
-  
-  
-  
-     
-  # <h3 align="left">🔱🌈 Github status: 🏳️‍🌈🔱</h3>
-  
-  <!-- ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod) -->
-  
-  ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&show_icons=true&theme=radical)
-  
- <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
   
   <h3 align="left"> 🔱 VitRod's time of coding: 🏳️‍🌈</h3>
   
@@ -316,6 +302,23 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
   
   
 </a>
+  
+  
+  # <h3 align="left">🔱🌈 Github status: 🏳️‍🌈🔱</h3>
+  
+  <!-- ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod) -->
+  
+  ![VitRod GitHub stats](https://github-readme-stats.vercel.app/api?username=VitRod&show_icons=true&theme=radical)
+  
+ <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   ###  🏳️‍🌈🔱  Github streak: 🔱🌈  
