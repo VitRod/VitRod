@@ -345,10 +345,10 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/VitRod/spring-movie-application/pull/160) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-2. 💪 Opened PR [#160](https://github.com/VitRod/spring-movie-application/pull/160) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-3. 🎉 Merged PR [#159](https://github.com/VitRod/spring-movie-application/pull/159) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-4. 💪 Opened PR [#159](https://github.com/VitRod/spring-movie-application/pull/159) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
+1. 🎉 Merged PR [#161](https://github.com/VitRod/spring-movie-application/pull/161) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
+2. 💪 Opened PR [#161](https://github.com/VitRod/spring-movie-application/pull/161) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
+3. 🎉 Merged PR [#160](https://github.com/VitRod/spring-movie-application/pull/160) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
+4. 💪 Opened PR [#160](https://github.com/VitRod/spring-movie-application/pull/160) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
 5. 🎉 Merged PR [#158](https://github.com/VitRod/spring-movie-application/pull/158) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
 <!--END_SECTION:activity-->
 
