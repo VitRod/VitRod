@@ -346,11 +346,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/VitRod/spring-movie-application/pull/204) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-2. 💪 Opened PR [#204](https://github.com/VitRod/spring-movie-application/pull/204) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
-3. 🎉 Merged PR [#121](https://github.com/VitRod/RecaptchaSpringboot/pull/121) in [VitRod/RecaptchaSpringboot](https://github.com/VitRod/RecaptchaSpringboot)
-4. 💪 Opened PR [#121](https://github.com/VitRod/RecaptchaSpringboot/pull/121) in [VitRod/RecaptchaSpringboot](https://github.com/VitRod/RecaptchaSpringboot)
-5. 🎉 Merged PR [#202](https://github.com/VitRod/spring-boot-todo-app/pull/202) in [VitRod/spring-boot-todo-app](https://github.com/VitRod/spring-boot-todo-app)
+1. 💪 Opened PR [#2](https://github.com/VitRod/Organization-of-student-information/pull/2) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+2. 🎉 Merged PR [#1](https://github.com/VitRod/Organization-of-student-information/pull/1) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+3. 💪 Opened PR [#1](https://github.com/VitRod/Organization-of-student-information/pull/1) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+4. 🎉 Merged PR [#204](https://github.com/VitRod/spring-movie-application/pull/204) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
+5. 💪 Opened PR [#204](https://github.com/VitRod/spring-movie-application/pull/204) in [VitRod/spring-movie-application](https://github.com/VitRod/spring-movie-application)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
