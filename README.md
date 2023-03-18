@@ -439,7 +439,7 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=spring-mvc-court-reservation&&show_icons=true&theme=radical)](https://github.com/VitRod/spring-mvc-court-reservation)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=spring-movie-application&&show_icons=true&theme=radical)](https://github.com/VitRod/spring-movie-application)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=Organization-of-student-information&&show_icons=true&theme=radical)](https://github.com/VitRod/Organization-of-student-information)
 
 
 
