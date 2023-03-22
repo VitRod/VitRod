@@ -346,11 +346,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/VitRod/Organization-of-student-information/pull/62) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-2. 🎉 Merged PR [#61](https://github.com/VitRod/Organization-of-student-information/pull/61) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-3. 💪 Opened PR [#61](https://github.com/VitRod/Organization-of-student-information/pull/61) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-4. 🎉 Merged PR [#60](https://github.com/VitRod/Organization-of-student-information/pull/60) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-5. 💪 Opened PR [#60](https://github.com/VitRod/Organization-of-student-information/pull/60) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+1. 🎉 Merged PR [#63](https://github.com/VitRod/Organization-of-student-information/pull/63) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+2. 💪 Opened PR [#63](https://github.com/VitRod/Organization-of-student-information/pull/63) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+3. 💪 Opened PR [#62](https://github.com/VitRod/Organization-of-student-information/pull/62) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+4. 🎉 Merged PR [#61](https://github.com/VitRod/Organization-of-student-information/pull/61) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+5. 💪 Opened PR [#61](https://github.com/VitRod/Organization-of-student-information/pull/61) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
