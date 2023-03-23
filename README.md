@@ -153,7 +153,7 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 
 
 <!-- Habitica 25 pictures -->
-![]( https://pbs.twimg.com/media/FfC6g5YWIAE_rG8?format=png&name=small )
+![]( https://pbs.twimg.com/media/Fr4kuHFXwAEOtvl?format=png&name=small )
 
 
 
