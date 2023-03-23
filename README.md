@@ -155,7 +155,9 @@ https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-
 <!-- Habitica 25 pictures -->
 ![]( https://pbs.twimg.com/media/Fr4kuHFXwAEOtvl?format=png&name=small )
 
+![unicorn](https://user-images.githubusercontent.com/26525615/227242484-8ec62a88-4ccd-444a-81d1-591a38ac212c.png)
 
+![rainbow-unicorn](https://user-images.githubusercontent.com/26525615/227242626-d6ab2bb0-4250-47f6-a5f9-5fed543dbecf.jpg)
 
 ![](https://media.giphy.com/media/35bsf4G3CHIWs/giphy.gif)
 ![](https://media.giphy.com/media/11z8mwhw0jxQiI/giphy.gif)
