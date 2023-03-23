@@ -346,8 +346,8 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/VitRod/Organization-of-student-information/pull/96) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-2. 💪 Opened PR [#96](https://github.com/VitRod/Organization-of-student-information/pull/96) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+1. 🎉 Merged PR [#97](https://github.com/VitRod/Organization-of-student-information/pull/97) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+2. 💪 Opened PR [#97](https://github.com/VitRod/Organization-of-student-information/pull/97) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
 3. 🎉 Merged PR [#95](https://github.com/VitRod/Organization-of-student-information/pull/95) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
 4. 💪 Opened PR [#95](https://github.com/VitRod/Organization-of-student-information/pull/95) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
 5. 🎉 Merged PR [#94](https://github.com/VitRod/Organization-of-student-information/pull/94) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
