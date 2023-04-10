@@ -348,11 +348,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/VitRod/leetcode-freestyle/pull/13) in [VitRod/leetcode-freestyle](https://github.com/VitRod/leetcode-freestyle)
-2. 💪 Opened PR [#13](https://github.com/VitRod/leetcode-freestyle/pull/13) in [VitRod/leetcode-freestyle](https://github.com/VitRod/leetcode-freestyle)
-3. 🎉 Merged PR [#168](https://github.com/VitRod/Organization-of-student-information/pull/168) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-4. 💪 Opened PR [#168](https://github.com/VitRod/Organization-of-student-information/pull/168) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
-5. 🎉 Merged PR [#167](https://github.com/VitRod/Organization-of-student-information/pull/167) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+1. 🎉 Merged PR [#171](https://github.com/VitRod/Organization-of-student-information/pull/171) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+2. 💪 Opened PR [#171](https://github.com/VitRod/Organization-of-student-information/pull/171) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+3. 🎉 Merged PR [#170](https://github.com/VitRod/Organization-of-student-information/pull/170) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+4. 💪 Opened PR [#170](https://github.com/VitRod/Organization-of-student-information/pull/170) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
+5. 🎉 Merged PR [#169](https://github.com/VitRod/Organization-of-student-information/pull/169) in [VitRod/Organization-of-student-information](https://github.com/VitRod/Organization-of-student-information)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
