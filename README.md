@@ -103,55 +103,6 @@ YOU have to do the work to change.
 
 
 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://user-images.githubusercontent.com/26525615/194767850-8a924153-2761-40cc-8704-41f3f7e49cc3.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Habitica 25 pictures -->
 ![]( https://pbs.twimg.com/media/Fr4kuHFXwAEOtvl?format=png&name=small )
 
