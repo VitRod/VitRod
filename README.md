@@ -25,6 +25,8 @@
    
 
  <!-- ![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)    -->
+ 
+- "Whoever has the most fun, wins." /"Time assets vs. Time debts.Time assets are choices that save you time in the future. Think: saying no to a meeting, automating a task, working on something that persists and compounds.Time debts are choices that must be repaid and cost you time in the future. Think: saying yes to a meeting, doing sloppy work that will need to be revised, etc.Time assets are an investment. Time debts are an expense."
 
 - "It's hard to build momentum if you're dividing your attention." / "Many people assume they are bad at writing because it is hard. This is like assuming you are bad at weightlifting because the weight is heavy. / "If you need 10 of something, make 30. Then pick the best."
 
