@@ -104,9 +104,13 @@ YOU have to do the work to change.
 
 ### Click on the drawing and jump to the youtube channel
 
-[<img src="https://user-images.githubusercontent.com/26525615/233405989-4cf4d597-a0a1-4c25-a668-ad5d2dda2697.png" width="50%">](https://www.youtube.com/watch?v=OA-zc1h18pY)
+[<img src="https://user-images.githubusercontent.com/26525615/236386272-bf401126-273c-466f-9e7c-da256946da16.png" width="50%">](https://www.youtube.com/watch?v=Ujwy2WrUvbY&list=PLgEq32Fl0Tz83nS24wnSHAwBj_9YbAIhf&index=42)
 
-[<img src="https://user-images.githubusercontent.com/26525615/233414613-41827850-8e64-49e6-a7c2-7759534510f0.png" width="50%">](https://www.youtube.com/watch?v=PqLkxE7RDYI)
+
+
+
+
+[<img src="https://user-images.githubusercontent.com/26525615/236386453-1fc98764-119a-4bbe-8445-c882308ce109.png" width="50%">](https://www.youtube.com/watch?v=uckruuMXrPc&list=PLgEq32Fl0Tz83nS24wnSHAwBj_9YbAIhf&index=33)
 
 
 
