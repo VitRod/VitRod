@@ -306,11 +306,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/VitRod/PhpCalculator/pull/8) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
-2. 💪 Opened PR [#8](https://github.com/VitRod/PhpCalculator/pull/8) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
-3. 🎉 Merged PR [#7](https://github.com/VitRod/PhpCalculator/pull/7) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
-4. 💪 Opened PR [#7](https://github.com/VitRod/PhpCalculator/pull/7) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
-5. 🎉 Merged PR [#6](https://github.com/VitRod/PhpCalculator/pull/6) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
+1. 🎉 Merged PR [#10](https://github.com/VitRod/PhpCalculator/pull/10) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
+2. 💪 Opened PR [#10](https://github.com/VitRod/PhpCalculator/pull/10) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
+3. 🎉 Merged PR [#9](https://github.com/VitRod/PhpCalculator/pull/9) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
+4. 💪 Opened PR [#9](https://github.com/VitRod/PhpCalculator/pull/9) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
+5. 🎉 Merged PR [#8](https://github.com/VitRod/PhpCalculator/pull/8) in [VitRod/PhpCalculator](https://github.com/VitRod/PhpCalculator)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
