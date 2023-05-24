@@ -405,5 +405,5 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=PhpCalculator&&show_icons=true&theme=radical)](https://github.com/VitRod/PhpCalculator)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=HelloWorldRestAPI&&show_icons=true&theme=radical)](https://github.com/VitRod/HelloWorldRestAPI)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VitRod&repo=CRUD_Laravel10_PHP_8.1&&show_icons=true&theme=radical)](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
 
