@@ -229,6 +229,10 @@ YOU have to do the work to change.
    <img align="center" alt="VitRod-Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
    <img align="center" alt="VitRod-Search Console"  src="https://img.shields.io/badge/Google-Google%20Search%20Console-orange">
  
+ <img align="center" alt="VitRod-JUnit"  src="https://img.shields.io/badge/JUNIT-JUNIT-green">
+ <img align="center" alt="VitRod-Log4j"  src="https://img.shields.io/badge/Log4j-LOG4J-blue">
+ <img align="center" alt="VitRod-SLF4J"  src="https://img.shields.io/badge/SLF4J-SLF4J-orange">
+ 
  
    
    
