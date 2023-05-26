@@ -28,6 +28,8 @@
 
  <!-- ![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)    -->
  
+ ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
+ 
  - "Live the Pareto Principle lifestyle: Relationships. Who are the few people that have the most positive impact on my life? Spend more time with them. Priorities. What are the few actions that have the most positive impact on my day? Prioritize them. Learning. What are the few information sources I learn the most from? Focus on them. Stress. What are the few sources that cause most of the stress and friction in my life? Eliminate them."
  
  - Journalist Flora Rheta Schreiber on starting before you feel ready: "You're never ready for what you have to do. You just do it. That makes you ready."
