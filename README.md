@@ -197,10 +197,16 @@ YOU have to do the work to change.
  <img align="center" alt="Bitbucket"  src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
  
  
- <!-- Teminal -->
+ <!-- Terminal -->
  <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  <img align="center" alt="VitRod-powershell"  src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img align="center" alt="VitRod-Terminal"  src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+ 
+ <!-- Searches -->
+ <img align="center" alt="VitRod-ElasticSearch"  src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
+<img align="center" alt="VitRod-SOLR Search"  src="https://img.shields.io/badge/SOLR-SOLR%20SEARCH-yellowgreen">
+ 
+ 
   
  
  
@@ -222,6 +228,8 @@ YOU have to do the work to change.
    
    <img align="center" alt="VitRod-Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
    <img align="center" alt="VitRod-Search Console"  src="https://img.shields.io/badge/Google-Google%20Search%20Console-orange">
+ 
+ 
    
    
    
