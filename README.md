@@ -5,7 +5,7 @@
 ![hanry cavill screw driver](https://i.pinimg.com/originals/d8/91/b9/d891b90144c060b8ade37a74ece9025c.gif)
 ![hanry cavill](https://i.makeagif.com/media/8-15-2020/kHaPq_.gif)   ![daniel radcliffe](https://media.tenor.com/tH5WdSCz0soAAAAC/shut-up-daniel-radcliffe.gif)  ![elijah wood](https://thumbs.gfycat.com/CluelessFrankIndochinahogdeer-max-1mb.gif)  ![Ewan Mcfregor](https://64.media.tumblr.com/89843549529a1aed9e96fe4830bcd9ed/aba84abec777ddad-e0/s540x810/24521cf5ea5d90bbad480f24bfdcd260b02c299b.gif) 
 ![zelemskiy](https://thumbs.gfycat.com/ViciousQualifiedFlyingfox-max-1mb.gif)
-![Kemal Glu](https://realtribune.ru/img/uploads/2023/05/633d76f4470a9b450050a521.jpg)
+<!-- ![Kemal Glu](https://realtribune.ru/img/uploads/2023/05/633d76f4470a9b450050a521.jpg) -->
 
 ![Mark Hamill](https://img.izismile.com/img/img12/20190829/gifs/mark_hamill_facts_have_the_force_in_them_15.gif)  ![Cameron Monahan mark hamill](https://user-images.githubusercontent.com/26525615/235046207-0d24d3fe-e098-473a-b4c2-49fb4095c5f4.png)
  
