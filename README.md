@@ -348,10 +348,10 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![]( https://pbs.twimg.com/media/FqHxVnPWwAAk2KC?format=png&name=small  )
-![](  https://pbs.twimg.com/media/FqHxXVQX0AAbzhm?format=png&name=small     )
-![](  https://pbs.twimg.com/media/FqHxZgMWAAALsV4?format=png&name=small  )
-![](  https://pbs.twimg.com/media/FqHxbNUWcAEeH9p?format=png&name=small    )
+![]( https://pbs.twimg.com/media/FxXS82HXgAAEQ5Z?format=png&name=small )
+![](  https://pbs.twimg.com/media/FxXS_OHWIAAGzn3?format=png&name=small   )
+![](  https://pbs.twimg.com/media/FxXTBKPX0AAFI0J?format=png&name=small  )
+![](  https://pbs.twimg.com/media/FxXTCtOXgAEkDSX?format=png&name=small  )
 ![master level](  https://pbs.twimg.com/media/FbiyQuAX0AE4-TU?format=png&name=small )
 
 
