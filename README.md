@@ -185,6 +185,9 @@ YOU have to do the work to change.
  <img align="center" alt="VitRod-mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img align="center" alt="VitRod-postgres"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img align="center" alt="VitRod-sqlLite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+ <img align="center" alt="VitRod-H2db"  src="https://img.shields.io/badge/H2db-H2db-yellowgreen">
+ 
+ 
  
  
   <!-- IDE -->
