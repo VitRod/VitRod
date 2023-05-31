@@ -207,9 +207,12 @@ YOU have to do the work to change.
  <!-- Searches -->
  <img align="center" alt="VitRod-ElasticSearch"  src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
 <img align="center" alt="VitRod-SOLR Search"  src="https://img.shields.io/badge/SOLR-SOLR%20SEARCH-yellowgreen">
+ <img align="center" alt="VitRod-SOLARIUM"  src="https://img.shields.io/badge/SOLARIUM-Solarium-blue">
  
  
-  
+ 
+ 
+ 
  
  
  <!-- Other -->
