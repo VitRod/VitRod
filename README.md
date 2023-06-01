@@ -32,7 +32,7 @@
  
  - "Live the Pareto Principle lifestyle: Relationships. Who are the few people that have the most positive impact on my life? Spend more time with them. Priorities. What are the few actions that have the most positive impact on my day? Prioritize them. Learning. What are the few information sources I learn the most from? Focus on them. Stress. What are the few sources that cause most of the stress and friction in my life? Eliminate them."
  
- - Journalist Flora Rheta Schreiber on starting before you feel ready: "You're never ready for what you have to do. You just do it. That makes you ready."
+ - Journalist Flora Rheta Schreiber on starting before you feel ready: "You're never ready for what you have to do. You just do it. That makes you ready." / "The most invisible form of wasted time is doing a good job on an unimportant task." / "It generally feels better to run toward something than to run away from something. Focus on what is pulling you in, not what you're trying to avoid." / "It's easier to notice when you lose money than when you lose time. Be sure you're making the trade you want."
  
  - "Sometimes all you need for exceptional results is average effort repeated for an above-average amount of time." / "Make your habits fun.This doesn't mean each habit will be the most fun thing in your life, but nearly any habit can be made more fun than it is currently. Ask yourself, "What would it look like if this was fun? What would it look like if meditation or exercise or writing—or whatever—was fun? Find the most enjoyable version of each habit you do." / 
  
