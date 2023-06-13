@@ -137,6 +137,15 @@ YOU have to do the work to change.
   
   <!-- Badges for tools -->
  <div style="display: inline_block"><br>
+
+<!-- Operational system -->
+<img align="center" alt="VitRod-WINDOWS"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" alt="VitRod-WSL/Ubuntu"  src="https://img.shields.io/badge/WSL-Windows%20Subsystem%20for%20Linux%2F%20UBUNTU-blue">
+<img align="center" alt="VitRod-LINUX"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" alt="VitRod-UBUNTU"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+
+
  
  <!-- Visualizer -->
   <img align="center" alt="VitRod-visualizer"  src="https://img.shields.io/badge/V-QUANTUM%20VISUALIZER-blue">
