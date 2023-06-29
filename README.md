@@ -259,10 +259,11 @@ YOU have to do the work to change.
  <img align="center" alt="VitRod-SLF4J"  src="https://img.shields.io/badge/SLF4J-SLF4J-orange">
  
  <img align="center" alt="CMS"  src="https://img.shields.io/badge/CMS-Content_Management_System-green">
-   
+ <img align="center" alt="Ansible"  src="https://img.shields.io/badge/ANSIBLE-Ansible-yellow">
    
 
    
+
    
    
 </div>
