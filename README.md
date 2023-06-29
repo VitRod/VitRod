@@ -29,6 +29,11 @@
  <!-- ![Cruise_Cavill](https://user-images.githubusercontent.com/26525615/195360240-ae37db97-dabf-4c5a-8018-2777558f4e15.gif)    -->
  
  ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
+
+
+- "Small things matter when they accumulate. This is one of the main lessons of my work—and one of the principles I try to follow in my life. The details, when finely polished and carefully combined, add up to something remarkable." / "Life rewards action, not intelligence. Many brilliant people talk themselves out of getting started, and being smart doesn't help very much without the courage to act. You can't win if you're not in the game." / "Start with the thing you are most motivated to do. Start with a small habit you think is fun and do it consistently. This will not only feel satisfying, but also open your eyes to the type of person you can become. After the first domino falls, you can use the momentum to do a little more."
+
+- Writer and Aikido teacher George Leonard on how to get started: "You can't do everything, but you can do one thing, and then another and another. In terms of energy, it's better to make a wrong choice than none at all. You might begin by listing your priorities—for the day, for the week, for the month, for a lifetime. Start modestly. List everything you want to do today or tomorrow. Set priorities by dividing the items into A, B, and C categories. At the least, accomplish the A items. Try the same thing with long-term goals. Priorities do shift, and you can change them at any time, but simply getting them down in black and white adds clarity to your life, and clarity creates energy."
  
  - "Live the Pareto Principle lifestyle: Relationships. Who are the few people that have the most positive impact on my life? Spend more time with them. Priorities. What are the few actions that have the most positive impact on my day? Prioritize them. Learning. What are the few information sources I learn the most from? Focus on them. Stress. What are the few sources that cause most of the stress and friction in my life? Eliminate them."
  
