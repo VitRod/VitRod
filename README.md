@@ -228,6 +228,9 @@ YOU have to do the work to change.
  <img align="center" alt="VitRod-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  <img align="center" alt="VitRod-powershell"  src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img align="center" alt="VitRod-Terminal"  src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+<img align="center" alt="VitRod-Linux-Terminal"  src="https://img.shields.io/badge/LINUX-UBUNTU_Terminal-orange">
+  
+
  
  <!-- Searches -->
  <img align="center" alt="VitRod-ElasticSearch"  src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
