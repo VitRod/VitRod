@@ -386,12 +386,13 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 # 🔱🌈 My Todoist Activity Records: 🏆🏆🏆 🏳️‍🌈🔱
-![]( https://pbs.twimg.com/media/FxXS82HXgAAEQ5Z?format=png&name=small )
-![](  https://pbs.twimg.com/media/FxXS_OHWIAAGzn3?format=png&name=small   )
-![](  https://pbs.twimg.com/media/FxXTBKPX0AAFI0J?format=png&name=small  )
-![](  https://pbs.twimg.com/media/FxXTCtOXgAEkDSX?format=png&name=small  )
+![](https://pbs.twimg.com/media/F0pxPpAXoAAS4SA?format=png&name=small )
+![](  https://pbs.twimg.com/media/F0pxR98WYAE1QZ1?format=png&name=small   )
+![](  https://pbs.twimg.com/media/F0pxUK5WAAA_lLr?format=png&name=small  )
+![]( https://pbs.twimg.com/media/F0pxZwlXwAc6juu?format=png&name=small  )
 ![master level](  https://pbs.twimg.com/media/FbiyQuAX0AE4-TU?format=png&name=small )
-
+![GRAND master level](https://pbs.twimg.com/media/F0pxjPQWwAEz2Yf?format=png&name=small)
+![GRAND master level](https://pbs.twimg.com/media/F0pxgbWWAAAqdFP?format=png&name=small)
 
 
 # 🔱🌈 My Github Activity Graph during this month: 🏳️‍🌈🔱
