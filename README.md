@@ -30,6 +30,9 @@
  
  ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
 
+- "Anxiety is thought without control. Flow is control without thought." / "We want solutions, but what we really need are attitudes.
+You don't need abs, but rather an attitude of training. You don't need the answer, but rather an attitude of curiosity. You don't need an easier life, but rather an attitude of perseverance. Attitude precedes outcome."
+
 - "Most of the time you don't need more information, you need more courage." / "Avoiding mistakes is an underrated way to improve. It's easier to fend off a bad day than achieve a perfect day. Rather than do your best, avoid your worst." / "Being good at what you do is partially about competence, but not exclusively.Two other things that matter:Reliability. You do what you say you're going to do—on time and as expected.
 Enthusiasm. You're excited to be here and eager to work on this problem. Skills matter, but in many cases it's your reliability or attitude that separates you from the pack." / Journalist and author Hunter S Thompson on designing your life: "Beware of looking for goals: look for a way of life. Decide how you want to live and then see what you can do to make a living within that way of life."
 
