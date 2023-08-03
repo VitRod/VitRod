@@ -30,6 +30,9 @@
  
  ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
 
+- "Time passes whether I stand still or move." /  "Goals are for people who care about winning once. Systems are for people who care about winning repeatedly." / "Work hard. If results depend on effort, then you will carry yourself far. If results depend on effort and luck, then you will have done what you can to influence the outcome. And if results depend on luck alone, then the outcome is random, but you will have won the battle with yourself." / "One version of confidence is: I've got this figured out. Another version is: I can figure this out.
+The first is arrogant and close-minded. The second is humble and open-minded. Be humble about what you know, but confident about what you can learn."
+
 - "Anxiety is thought without control. Flow is control without thought." / "We want solutions, but what we really need are attitudes.
 You don't need abs, but rather an attitude of training. You don't need the answer, but rather an attitude of curiosity. You don't need an easier life, but rather an attitude of perseverance. Attitude precedes outcome."
 
