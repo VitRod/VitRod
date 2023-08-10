@@ -30,6 +30,8 @@
  
  ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
 
+- 1. Know what you want. 2. Go after it relentlessly." / "You're more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don't merely try harder, try differently." / "First or last? Sometimes the first move is the most important. The first set in the gym. Now you're working out. The first sentence. Now you're writing. The first call. Now you're in the game. Other times, the last move is the most important. The last brick. Now the building is built. The last line of code. Now the app works. The last round of revisions. Now you can ship it. What do you need to focus on right now? First or last? Do you need to start or finish?"
+
 - "Time passes whether I stand still or move." /  "Goals are for people who care about winning once. Systems are for people who care about winning repeatedly." / "Work hard. If results depend on effort, then you will carry yourself far. If results depend on effort and luck, then you will have done what you can to influence the outcome. And if results depend on luck alone, then the outcome is random, but you will have won the battle with yourself." / "One version of confidence is: I've got this figured out. Another version is: I can figure this out.
 The first is arrogant and close-minded. The second is humble and open-minded. Be humble about what you know, but confident about what you can learn."
 
