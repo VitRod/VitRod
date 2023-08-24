@@ -30,6 +30,7 @@
  
  ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
 
+- "People often think that something "far off" will make them happy. That moving to a new place or getting a different job or meeting someone new will change how they feel. But happiness will always be withheld if you believe it is somewhere else. The secret is to find happiness in the people and places that are close to you. See the beauty in the things that are nearby." / "Who does the work? Who bears the consequences? Who reaps the rewards? When the incentives are aligned, it's the same person."
 
 - "Some things work and some things don't. There is almost always another way to get where you want to go. Don't keep trying to open a locked door." / "When nothing is working, explore and make a lot of small bets. After something starts working, double down on what works best. When that stops working, explore and make a lot of small bets again." / "It's not that hard on any given day, but the trick is you can't skip days. Your workouts can be reasonable and still deliver results—if you don't skip days. Your writing sessions can be short and the work will still accumulate—if you don't skip days. As long as you're working, you'll get there."   /  "It's essential to work on something you're deeply interested in. Interest will drive you to work harder than mere diligence ever could. The three most powerful motives are curiosity, delight, and the desire to do something impressive. Sometimes they converge, and that combination is the most powerful of all."
 
