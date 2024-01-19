@@ -30,6 +30,8 @@
  
  ![Habitica Achievement](https://pbs.twimg.com/media/FxD2bAbXwAIHkri?format=png&name=900x900)
 
+- "The days can be easy if the years are consistent. You can write a book or get in shape or code a piece of software in 30 minutes per day. But the key is you can't miss a bunch of days." / "The wedding is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice.The heart, mind, and body are endless pursuits."
+  
 - "Relax. Your rumination, analysis, worry, and need to control the future are robbing you of the current moment. Yes, there is a time for preparation, but continually thinking of the future guarantees you'll never enjoy in the present." / "Exerting more effort doesn't help if you're on the wrong trajectory. Working harder on the wrong thing just wastes more time. Learning more from a biased source will lead you further from the truth. Doubling down on a toxic relationship only sets you up for more headaches. Before you try harder, make sure you are walking a path that leads where you want to go."
 
 - "Two of my rules for life:1. The person who has the most fun wins. 2. The climb is the fun part."/ "Your reputation is your most important asset. It precedes you before you walk into the room and lingers long after the work is done." / "Big wins tend to be accompanied by some combination of bigger decisions, more uncertainty, and greater risk. If you want to play at a higher level, you need to be comfortable with greater swings of highs and lows: mentally, emotionally, financially. You can avoid the swings, but you might be forced to play at a lower level."
