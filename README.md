@@ -391,11 +391,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#507](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/507) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-2. 💪 Opened PR [#507](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/507) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-3. 🎉 Merged PR [#506](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/506) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-4. 💪 Opened PR [#506](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/506) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-5. 🎉 Merged PR [#505](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/505) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+1. 🎉 Merged PR [#508](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/508) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+2. 💪 Opened PR [#508](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/508) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+3. 🎉 Merged PR [#507](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/507) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+4. 💪 Opened PR [#507](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/507) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+5. 🎉 Merged PR [#506](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/pull/506) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
