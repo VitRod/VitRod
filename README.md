@@ -391,11 +391,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#746](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/746) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-2. 🔒 Closed issue [#752](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/752) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-3. ❗ Opened issue [#752](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/752) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-4. 🔒 Closed issue [#751](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/751) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
-5. ❗ Opened issue [#751](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/751) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+1. 🔒 Closed issue [#756](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/756) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+2. ❗ Opened issue [#756](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/756) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+3. 🔒 Closed issue [#755](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/755) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+4. ❗ Opened issue [#755](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/755) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
+5. 🔒 Closed issue [#754](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1/issues/754) in [VitRod/CRUD_Laravel10_PHP_8.1](https://github.com/VitRod/CRUD_Laravel10_PHP_8.1)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
