@@ -391,11 +391,11 @@ CSS              18 mins         ░░░░░░░░░░░░░░░�
  # :zap:🔱🌈  My Recent Activity 🏳️‍🌈🔱
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/VitRod/CRUD_RestEasy_Application/pull/231) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
-2. 💪 Opened PR [#231](https://github.com/VitRod/CRUD_RestEasy_Application/pull/231) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
-3. 🎉 Merged PR [#230](https://github.com/VitRod/CRUD_RestEasy_Application/pull/230) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
-4. 💪 Opened PR [#230](https://github.com/VitRod/CRUD_RestEasy_Application/pull/230) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
-5. 🎉 Merged PR [#229](https://github.com/VitRod/CRUD_RestEasy_Application/pull/229) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
+1. 🎉 Merged PR [#232](https://github.com/VitRod/CRUD_RestEasy_Application/pull/232) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
+2. 💪 Opened PR [#232](https://github.com/VitRod/CRUD_RestEasy_Application/pull/232) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
+3. 🎉 Merged PR [#231](https://github.com/VitRod/CRUD_RestEasy_Application/pull/231) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
+4. 💪 Opened PR [#231](https://github.com/VitRod/CRUD_RestEasy_Application/pull/231) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
+5. 🎉 Merged PR [#230](https://github.com/VitRod/CRUD_RestEasy_Application/pull/230) in [VitRod/CRUD_RestEasy_Application](https://github.com/VitRod/CRUD_RestEasy_Application)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
